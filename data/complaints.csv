@@ -1,0 +1,1001 @@
+complaint_id,date,category,complaint_text,priority,status,resolution_days,sentiment,channel
+CMP-00001,2026-02-22,Account,I cannot access my account. I am very disappointed with this service,High,Resolved,1.1,Negative,Web
+CMP-00002,2026-01-18,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,3.6,Negative,Email
+CMP-00003,2026-01-25,Account,I am unable to verify my account. Thank you for solving my problem,Medium,In Progress,,Positive,Email
+CMP-00004,2026-02-03,Account,My profile information is incorrect. This is extremely frustrating and unacceptable,High,Resolved,5.4,Negative,Call
+CMP-00005,2026-12-15,Billing,My invoice contains an unexpected charge. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00006,2026-10-07,Technical,The application keeps crashing when I log in. Please check the status of this issue,High,Resolved,6.1,Neutral,Web
+CMP-00007,2026-07-09,Billing,The amount deducted from my account is incorrect. Please provide an update on my request,Low,In Progress,,Neutral,Call
+CMP-00008,2026-11-21,Account,I want to update my account details. I am very disappointed with this service,Low,Resolved,5.0,Negative,Web
+CMP-00009,2026-11-23,Service,The service was very slow. Please provide an update on my request,Low,Resolved,2.0,Neutral,Email
+CMP-00010,2026-06-13,Account,I want to update my account details. Please provide an update on my request,Low,In Progress,,Neutral,Mobile App
+CMP-00011,2026-11-15,Billing,The amount deducted from my account is incorrect. Please check the status of this issue,Medium,Resolved,3.6,Neutral,Email
+CMP-00012,2026-07-19,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Call
+CMP-00013,2026-02-05,Delivery,The delivery is delayed again. Please provide an update on my request,Medium,Resolved,0.5,Neutral,Email
+CMP-00014,2026-05-18,Account,My profile information is incorrect. I would like information about my complaint,Medium,Resolved,3.4,Neutral,Web
+CMP-00015,2026-11-11,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Web
+CMP-00016,2026-12-09,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,Open,,Negative,Email
+CMP-00017,2026-09-25,Service,The support team did not respond to my request. I would like information about my complaint,Low,Resolved,5.4,Neutral,Web
+CMP-00018,2026-05-08,Service,I am unhappy with the customer service. The issue was resolved quickly and I appreciate the support,Medium,In Progress,,Positive,Web
+CMP-00019,2026-09-25,Product,I received the wrong product. Please provide an update on my request,Medium,In Progress,,Neutral,Email
+CMP-00020,2026-04-18,Product,The product is different from the description. Please provide an update on my request,Medium,Resolved,4.3,Neutral,Email
+CMP-00021,2026-02-08,Account,I want to update my account details. The service team handled my request well,Medium,Resolved,3.7,Positive,Email
+CMP-00022,2026-12-21,Billing,My invoice contains an unexpected charge. Nobody is helping me and this is terrible,Low,Resolved,0.2,Negative,Web
+CMP-00023,2026-08-07,Product,The product I received is damaged. I would like information about my complaint,Low,Resolved,2.1,Neutral,Email
+CMP-00024,2026-04-04,Account,I am unable to verify my account. Please provide an update on my request,Medium,In Progress,,Neutral,Web
+CMP-00025,2026-01-22,Account,My profile information is incorrect. Thank you for solving my problem,Medium,In Progress,,Positive,Web
+CMP-00026,2026-03-14,Billing,I have not received my billing statement. Please provide an update on my request,Low,Resolved,3.8,Neutral,Email
+CMP-00027,2026-09-04,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,Resolved,6.1,Negative,Web
+CMP-00028,2026-04-28,Account,I am unable to verify my account. Please provide an update on my request,Low,Resolved,3.5,Neutral,Call
+CMP-00029,2026-08-10,Billing,The amount deducted from my account is incorrect. Thank you for solving my problem,Medium,Open,,Positive,Call
+CMP-00030,2026-01-19,Account,I am unable to verify my account. I would like information about my complaint,Low,Resolved,1.7,Neutral,Web
+CMP-00031,2026-03-02,Account,I want to update my account details. Nobody is helping me and this is terrible,Medium,Resolved,6.0,Negative,Web
+CMP-00032,2026-10-08,Product,The product I received is damaged. Please check the status of this issue,Low,Resolved,6.6,Neutral,Web
+CMP-00033,2026-04-22,Service,The support team did not respond to my request. The service team handled my request well,Medium,Open,,Positive,Mobile App
+CMP-00034,2026-02-01,Product,The item stopped working after two days. The service team handled my request well,Medium,Resolved,6.5,Positive,Call
+CMP-00035,2026-06-03,Service,The representative was not helpful. Please provide an update on my request,Low,Resolved,1.1,Neutral,Email
+CMP-00036,2026-11-17,Delivery,My package arrived late. Nobody is helping me and this is terrible,Medium,Resolved,6.9,Negative,Web
+CMP-00037,2026-03-09,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Low,Open,,Negative,Web
+CMP-00038,2026-04-22,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Low,In Progress,,Negative,Mobile App
+CMP-00039,2026-05-02,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,3.1,Negative,Web
+CMP-00040,2026-09-23,Delivery,The delivery is delayed again. I would like information about my complaint,Low,In Progress,,Neutral,Call
+CMP-00041,2026-10-18,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Low,Resolved,5.9,Negative,Email
+CMP-00042,2026-04-22,Technical,I cannot reset my password. I am very disappointed with this service,Low,Open,,Negative,Email
+CMP-00043,2026-07-20,Account,I cannot access my account. The service team handled my request well,High,Open,,Positive,Email
+CMP-00044,2026-06-26,Product,The product quality is not as expected. Please provide an update on my request,Medium,Resolved,5.2,Neutral,Call
+CMP-00045,2026-08-08,Account,My account has been locked. Nobody is helping me and this is terrible,Low,Resolved,0.5,Negative,Email
+CMP-00046,2026-07-11,Technical,The website is not loading. This is extremely frustrating and unacceptable,High,Resolved,4.7,Negative,Mobile App
+CMP-00047,2026-06-01,Billing,My invoice contains an unexpected charge. The service team handled my request well,Medium,Resolved,5.9,Positive,Web
+CMP-00048,2026-12-26,Delivery,The delivery is delayed again. I would like information about my complaint,Low,Resolved,3.2,Neutral,Mobile App
+CMP-00049,2026-04-09,Technical,I am unable to complete the online payment. Please provide an update on my request,Medium,Open,,Neutral,Web
+CMP-00050,2026-11-11,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Low,Resolved,0.7,Negative,Mobile App
+CMP-00051,2026-06-13,Account,I cannot access my account. I would like information about my complaint,High,Resolved,4.7,Neutral,Mobile App
+CMP-00052,2026-10-19,Service,The service was very slow. Nobody is helping me and this is terrible,Medium,Resolved,6.3,Negative,Mobile App
+CMP-00053,2026-10-21,Technical,I am unable to complete the online payment. I would like information about my complaint,Medium,Resolved,5.5,Neutral,Mobile App
+CMP-00054,2026-12-06,Technical,The mobile application shows an error. The issue was resolved quickly and I appreciate the support,Medium,In Progress,,Positive,Web
+CMP-00055,2026-04-22,Delivery,The order was delivered to the wrong address. Please check the status of this issue,Medium,Resolved,6.7,Neutral,Mobile App
+CMP-00056,2026-02-15,Product,The product quality is not as expected. This is extremely frustrating and unacceptable,High,Resolved,3.4,Negative,Call
+CMP-00057,2026-11-23,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Medium,Resolved,1.9,Negative,Web
+CMP-00058,2026-02-15,Billing,I have not received my billing statement. Nobody is helping me and this is terrible,Medium,Resolved,1.9,Negative,Email
+CMP-00059,2026-08-20,Technical,I am unable to complete the online payment. Please check the status of this issue,Medium,Open,,Neutral,Call
+CMP-00060,2026-11-09,Service,Nobody followed up on my complaint. Please check the status of this issue,Medium,Resolved,5.3,Neutral,Call
+CMP-00061,2026-04-09,Account,My account has been locked. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Mobile App
+CMP-00062,2026-12-07,Delivery,The order was delivered to the wrong address. This is extremely frustrating and unacceptable,High,Resolved,4.9,Negative,Web
+CMP-00063,2026-07-25,Technical,The mobile application shows an error. I am very disappointed with this service,Medium,Resolved,5.9,Negative,Web
+CMP-00064,2026-07-18,Service,Nobody followed up on my complaint. Thank you for solving my problem,Medium,In Progress,,Positive,Email
+CMP-00065,2026-07-24,Technical,I cannot reset my password. I am very disappointed with this service,Low,Resolved,4.7,Negative,Email
+CMP-00066,2026-10-19,Technical,I cannot reset my password. Please check the status of this issue,Low,Open,,Neutral,Web
+CMP-00067,2026-04-15,Billing,I have not received my billing statement. I am very disappointed with this service,Low,Resolved,2.8,Negative,Mobile App
+CMP-00068,2026-08-01,Delivery,The tracking information has not updated. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00069,2026-04-07,Delivery,The delivery is delayed again. Please check the status of this issue,Low,In Progress,,Neutral,Web
+CMP-00070,2026-12-09,Service,The service was very slow. I am very disappointed with this service,Low,Resolved,1.7,Negative,Mobile App
+CMP-00071,2026-03-10,Product,I received the wrong product. Please check the status of this issue,Low,In Progress,,Neutral,Web
+CMP-00072,2026-02-19,Service,The support team did not respond to my request. Please check the status of this issue,Medium,Resolved,5.1,Neutral,Email
+CMP-00073,2026-10-26,Billing,My invoice contains an unexpected charge. Please check the status of this issue,Low,In Progress,,Neutral,Web
+CMP-00074,2026-07-27,Delivery,The order was delivered to the wrong address. Thank you for solving my problem,Low,Resolved,2.5,Positive,Call
+CMP-00075,2026-07-06,Billing,I have not received my billing statement. Please check the status of this issue,Medium,In Progress,,Neutral,Mobile App
+CMP-00076,2026-10-09,Service,The representative was not helpful. I would like information about my complaint,Medium,In Progress,,Neutral,Mobile App
+CMP-00077,2026-10-20,Product,The product I received is damaged. I am very disappointed with this service,Low,In Progress,,Negative,Call
+CMP-00078,2026-05-11,Delivery,My order has not been delivered yet. Thank you for solving my problem,Low,Resolved,2.6,Positive,Mobile App
+CMP-00079,2026-08-18,Service,I am unhappy with the customer service. Please check the status of this issue,Low,Resolved,5.1,Neutral,Email
+CMP-00080,2026-02-10,Account,My profile information is incorrect. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00081,2026-07-24,Technical,I cannot reset my password. Nobody is helping me and this is terrible,Medium,Resolved,3.8,Negative,Mobile App
+CMP-00082,2026-02-24,Delivery,The tracking information has not updated. I am very disappointed with this service,Low,Resolved,1.5,Negative,Email
+CMP-00083,2026-04-10,Product,The product quality is not as expected. I would like information about my complaint,Medium,Open,,Neutral,Email
+CMP-00084,2026-09-10,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Low,Resolved,6.8,Negative,Email
+CMP-00085,2026-08-11,Account,My profile information is incorrect. This is extremely frustrating and unacceptable,High,Resolved,3.4,Negative,Email
+CMP-00086,2026-07-16,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Low,In Progress,,Neutral,Web
+CMP-00087,2026-09-25,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Medium,Resolved,1.9,Negative,Call
+CMP-00088,2026-10-14,Service,The representative was not helpful. Please provide an update on my request,Medium,Resolved,3.2,Neutral,Mobile App
+CMP-00089,2026-04-21,Service,The representative was not helpful. Nobody is helping me and this is terrible,Low,Open,,Negative,Email
+CMP-00090,2026-07-15,Delivery,My order has not been delivered yet. This is extremely frustrating and unacceptable,High,Resolved,1.3,Negative,Call
+CMP-00091,2026-08-03,Delivery,My order has not been delivered yet. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Email
+CMP-00092,2026-03-09,Delivery,The order was delivered to the wrong address. Please provide an update on my request,Medium,Resolved,1.7,Neutral,Email
+CMP-00093,2026-05-15,Billing,I was charged twice for my subscription. I am very disappointed with this service,High,Resolved,5.8,Negative,Web
+CMP-00094,2026-07-24,Technical,The website is not loading. I would like information about my complaint,Medium,Resolved,4.3,Neutral,Mobile App
+CMP-00095,2026-10-19,Service,I am unhappy with the customer service. This is extremely frustrating and unacceptable,High,Open,,Negative,Web
+CMP-00096,2026-05-06,Account,I want to update my account details. Please provide an update on my request,Medium,Resolved,3.2,Neutral,Call
+CMP-00097,2026-02-28,Account,My profile information is incorrect. I would like information about my complaint,Medium,Resolved,2.4,Neutral,Email
+CMP-00098,2026-09-02,Delivery,The tracking information has not updated. I would like information about my complaint,Medium,In Progress,,Neutral,Call
+CMP-00099,2026-07-28,Billing,My invoice contains an unexpected charge. This is extremely frustrating and unacceptable,High,Open,,Negative,Web
+CMP-00100,2026-08-21,Account,I am unable to verify my account. The issue was resolved quickly and I appreciate the support,Low,Resolved,4.4,Positive,Call
+CMP-00101,2026-08-23,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,Open,,Negative,Call
+CMP-00102,2026-12-06,Billing,I was charged twice for my subscription. Please check the status of this issue,High,In Progress,,Neutral,Mobile App
+CMP-00103,2026-02-15,Service,The support team did not respond to my request. Please provide an update on my request,Low,Open,,Neutral,Web
+CMP-00104,2026-08-16,Account,My account has been locked. The service team handled my request well,Medium,Resolved,2.1,Positive,Email
+CMP-00105,2026-09-24,Technical,I am unable to complete the online payment. This is extremely frustrating and unacceptable,High,Open,,Negative,Email
+CMP-00106,2026-09-09,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Medium,Open,,Neutral,Web
+CMP-00107,2026-08-18,Delivery,My package arrived late. Please check the status of this issue,Medium,In Progress,,Neutral,Call
+CMP-00108,2026-04-23,Delivery,My package arrived late. Please check the status of this issue,Medium,Resolved,2.4,Neutral,Email
+CMP-00109,2026-07-13,Service,Nobody followed up on my complaint. I am very disappointed with this service,Low,Resolved,3.4,Negative,Email
+CMP-00110,2026-08-04,Technical,The application keeps crashing when I log in. Nobody is helping me and this is terrible,High,Resolved,0.9,Negative,Call
+CMP-00111,2026-05-11,Billing,The amount deducted from my account is incorrect. The service team handled my request well,Low,Resolved,5.5,Positive,Call
+CMP-00112,2026-07-11,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Call
+CMP-00113,2026-12-03,Service,The support team did not respond to my request. Please provide an update on my request,Medium,Open,,Neutral,Call
+CMP-00114,2026-06-26,Billing,I was charged twice for my subscription. The service team handled my request well,High,Resolved,0.4,Positive,Web
+CMP-00115,2026-03-06,Delivery,My package arrived late. The issue was resolved quickly and I appreciate the support,Low,Resolved,4.0,Positive,Email
+CMP-00116,2026-04-15,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Low,Resolved,4.2,Neutral,Mobile App
+CMP-00117,2026-08-12,Technical,The website is not loading. I would like information about my complaint,Medium,Resolved,1.3,Neutral,Mobile App
+CMP-00118,2026-08-04,Account,My profile information is incorrect. I would like information about my complaint,Medium,Resolved,2.8,Neutral,Email
+CMP-00119,2026-07-09,Technical,I am unable to complete the online payment. Thank you for solving my problem,Medium,Resolved,5.8,Positive,Web
+CMP-00120,2026-05-25,Service,The support team did not respond to my request. Please check the status of this issue,Medium,In Progress,,Neutral,Email
+CMP-00121,2026-12-25,Service,I am unhappy with the customer service. This is extremely frustrating and unacceptable,High,Resolved,4.8,Negative,Email
+CMP-00122,2026-01-19,Account,I cannot access my account. Please check the status of this issue,High,Resolved,5.6,Neutral,Mobile App
+CMP-00123,2026-03-07,Account,My account has been locked. I am very disappointed with this service,Medium,In Progress,,Negative,Email
+CMP-00124,2026-08-26,Service,I am unhappy with the customer service. I would like information about my complaint,Low,Resolved,5.8,Neutral,Mobile App
+CMP-00125,2026-11-24,Account,I want to update my account details. I would like information about my complaint,Low,Resolved,6.8,Neutral,Call
+CMP-00126,2026-06-22,Service,I am unhappy with the customer service. I am very disappointed with this service,Low,Resolved,1.0,Negative,Mobile App
+CMP-00127,2026-10-18,Service,Nobody followed up on my complaint. I would like information about my complaint,Low,Resolved,3.4,Neutral,Mobile App
+CMP-00128,2026-05-21,Service,The service was very slow. Please check the status of this issue,Medium,Open,,Neutral,Call
+CMP-00129,2026-02-08,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,Resolved,3.5,Negative,Email
+CMP-00130,2026-07-21,Technical,The mobile application shows an error. The service team handled my request well,Medium,Resolved,5.1,Positive,Web
+CMP-00131,2026-04-15,Technical,I am unable to complete the online payment. Thank you for solving my problem,Low,In Progress,,Positive,Call
+CMP-00132,2026-06-02,Product,The item stopped working after two days. Nobody is helping me and this is terrible,Medium,Resolved,6.8,Negative,Call
+CMP-00133,2026-10-01,Delivery,The delivery is delayed again. I would like information about my complaint,Low,Resolved,4.6,Neutral,Web
+CMP-00134,2026-04-19,Delivery,The delivery is delayed again. Please check the status of this issue,Low,Resolved,5.4,Neutral,Email
+CMP-00135,2026-03-18,Product,The item stopped working after two days. Please check the status of this issue,Low,Resolved,6.9,Neutral,Mobile App
+CMP-00136,2026-04-19,Product,The product I received is damaged. Please provide an update on my request,Low,Resolved,5.6,Neutral,Mobile App
+CMP-00137,2026-09-04,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00138,2026-10-02,Technical,The mobile application shows an error. Please check the status of this issue,Low,Resolved,1.7,Neutral,Mobile App
+CMP-00139,2026-07-22,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,In Progress,,Negative,Web
+CMP-00140,2026-03-09,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,1.2,Negative,Mobile App
+CMP-00141,2026-11-21,Technical,I am unable to complete the online payment. I would like information about my complaint,Medium,Resolved,5.0,Neutral,Email
+CMP-00142,2026-07-14,Technical,The mobile application shows an error. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00143,2026-11-16,Delivery,The tracking information has not updated. I am very disappointed with this service,Medium,Open,,Negative,Web
+CMP-00144,2026-06-26,Billing,I was charged twice for my subscription. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Email
+CMP-00145,2026-11-25,Service,The support team did not respond to my request. Please check the status of this issue,Medium,Resolved,3.0,Neutral,Call
+CMP-00146,2026-09-07,Account,I cannot access my account. Please check the status of this issue,High,Resolved,0.9,Neutral,Email
+CMP-00147,2026-02-25,Account,My profile information is incorrect. This is extremely frustrating and unacceptable,High,Resolved,4.0,Negative,Mobile App
+CMP-00148,2026-12-09,Service,The service was very slow. Please check the status of this issue,Low,Resolved,4.7,Neutral,Web
+CMP-00149,2026-03-19,Product,The item stopped working after two days. I would like information about my complaint,Medium,Resolved,1.4,Neutral,Call
+CMP-00150,2026-04-13,Billing,The amount deducted from my account is incorrect. Please provide an update on my request,Low,In Progress,,Neutral,Call
+CMP-00151,2026-10-20,Technical,The website is not loading. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00152,2026-11-14,Billing,The amount deducted from my account is incorrect. Nobody is helping me and this is terrible,Low,Resolved,2.1,Negative,Call
+CMP-00153,2026-11-22,Service,Nobody followed up on my complaint. The issue was resolved quickly and I appreciate the support,Low,Resolved,1.0,Positive,Call
+CMP-00154,2026-04-25,Service,I am unhappy with the customer service. I am very disappointed with this service,Low,Resolved,2.2,Negative,Email
+CMP-00155,2026-03-13,Delivery,My package arrived late. This is extremely frustrating and unacceptable,High,Resolved,3.1,Negative,Email
+CMP-00156,2026-07-01,Service,The representative was not helpful. I would like information about my complaint,Low,Resolved,5.2,Neutral,Call
+CMP-00157,2026-07-10,Billing,My invoice contains an unexpected charge. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00158,2026-10-15,Technical,The application keeps crashing when I log in. Please provide an update on my request,High,In Progress,,Neutral,Mobile App
+CMP-00159,2026-07-28,Billing,I have not received my billing statement. Please provide an update on my request,Medium,Resolved,3.8,Neutral,Mobile App
+CMP-00160,2026-09-17,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,4.5,Negative,Email
+CMP-00161,2026-04-06,Delivery,My package arrived late. Please check the status of this issue,Low,Resolved,1.2,Neutral,Email
+CMP-00162,2026-10-15,Account,I cannot access my account. Nobody is helping me and this is terrible,High,Resolved,5.3,Negative,Mobile App
+CMP-00163,2026-05-19,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,4.5,Negative,Web
+CMP-00164,2026-05-03,Delivery,The order was delivered to the wrong address. I am very disappointed with this service,Medium,Resolved,2.7,Negative,Web
+CMP-00165,2026-11-07,Service,The representative was not helpful. I would like information about my complaint,Low,Resolved,5.7,Neutral,Mobile App
+CMP-00166,2026-06-23,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,Resolved,6.3,Neutral,Web
+CMP-00167,2026-09-17,Service,The service was very slow. Nobody is helping me and this is terrible,Medium,Open,,Negative,Email
+CMP-00168,2026-11-20,Delivery,My package arrived late. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00169,2026-05-24,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,2.8,Negative,Email
+CMP-00170,2026-11-13,Delivery,My order has not been delivered yet. Please provide an update on my request,Medium,Resolved,4.7,Neutral,Email
+CMP-00171,2026-11-23,Service,The support team did not respond to my request. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00172,2026-06-25,Account,My profile information is incorrect. Please provide an update on my request,Medium,Resolved,6.7,Neutral,Call
+CMP-00173,2026-09-25,Product,The product quality is not as expected. Please provide an update on my request,Low,Resolved,5.6,Neutral,Web
+CMP-00174,2026-03-27,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,1.2,Neutral,Email
+CMP-00175,2026-10-10,Account,My profile information is incorrect. I am very disappointed with this service,Low,Open,,Negative,Call
+CMP-00176,2026-08-15,Product,I received the wrong product. I am very disappointed with this service,Low,Resolved,6.6,Negative,Mobile App
+CMP-00177,2026-03-28,Technical,I am unable to complete the online payment. Please provide an update on my request,Low,In Progress,,Neutral,Mobile App
+CMP-00178,2026-09-28,Billing,I have not received my billing statement. Please check the status of this issue,Low,In Progress,,Neutral,Web
+CMP-00179,2026-03-27,Delivery,My order has not been delivered yet. I would like information about my complaint,Medium,Open,,Neutral,Call
+CMP-00180,2026-06-08,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,Resolved,2.9,Neutral,Call
+CMP-00181,2026-11-11,Billing,My invoice contains an unexpected charge. I am very disappointed with this service,Low,In Progress,,Negative,Email
+CMP-00182,2026-08-15,Product,The product I received is damaged. I am very disappointed with this service,Low,In Progress,,Negative,Web
+CMP-00183,2026-09-14,Billing,I was charged twice for my subscription. This is extremely frustrating and unacceptable,High,Resolved,5.1,Negative,Web
+CMP-00184,2026-10-15,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Resolved,4.5,Negative,Web
+CMP-00185,2026-05-14,Billing,I have not received my billing statement. Please provide an update on my request,Low,In Progress,,Neutral,Web
+CMP-00186,2026-06-03,Service,I am unhappy with the customer service. I am very disappointed with this service,Low,Resolved,0.8,Negative,Web
+CMP-00187,2026-02-12,Technical,The mobile application shows an error. I am very disappointed with this service,Medium,Resolved,0.3,Negative,Email
+CMP-00188,2026-03-02,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Mobile App
+CMP-00189,2026-08-21,Service,I am unhappy with the customer service. Please provide an update on my request,Medium,Open,,Neutral,Email
+CMP-00190,2026-04-02,Product,The product I received is damaged. I would like information about my complaint,Low,Resolved,0.5,Neutral,Mobile App
+CMP-00191,2026-04-10,Delivery,The order was delivered to the wrong address. The service team handled my request well,Medium,Resolved,5.3,Positive,Mobile App
+CMP-00192,2026-12-15,Billing,My invoice contains an unexpected charge. I am very disappointed with this service,Medium,Open,,Negative,Call
+CMP-00193,2026-09-09,Delivery,The delivery is delayed again. Thank you for solving my problem,Medium,Open,,Positive,Web
+CMP-00194,2026-02-11,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Low,Resolved,2.4,Negative,Mobile App
+CMP-00195,2026-06-15,Delivery,The tracking information has not updated. I would like information about my complaint,Low,In Progress,,Neutral,Web
+CMP-00196,2026-01-03,Account,I want to update my account details. I would like information about my complaint,Medium,Resolved,5.6,Neutral,Call
+CMP-00197,2026-03-28,Delivery,The order was delivered to the wrong address. Please check the status of this issue,Low,Open,,Neutral,Call
+CMP-00198,2026-01-20,Billing,The amount deducted from my account is incorrect. Nobody is helping me and this is terrible,Medium,Resolved,6.7,Negative,Email
+CMP-00199,2026-10-05,Account,My profile information is incorrect. I would like information about my complaint,Medium,In Progress,,Neutral,Mobile App
+CMP-00200,2026-09-13,Technical,The website is not loading. Please provide an update on my request,Low,Resolved,1.5,Neutral,Web
+CMP-00201,2026-08-07,Delivery,My package arrived late. Please provide an update on my request,Medium,In Progress,,Neutral,Web
+CMP-00202,2026-11-28,Product,The product I received is damaged. The service team handled my request well,Medium,Open,,Positive,Mobile App
+CMP-00203,2026-03-23,Account,I want to update my account details. Please check the status of this issue,Medium,Open,,Neutral,Email
+CMP-00204,2026-04-26,Delivery,The order was delivered to the wrong address. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Call
+CMP-00205,2026-09-05,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00206,2026-10-03,Billing,My invoice contains an unexpected charge. The service team handled my request well,Medium,Resolved,5.4,Positive,Email
+CMP-00207,2026-09-21,Delivery,My order has not been delivered yet. The service team handled my request well,Medium,Resolved,5.8,Positive,Email
+CMP-00208,2026-03-11,Product,The product is different from the description. Please provide an update on my request,Low,Resolved,2.3,Neutral,Email
+CMP-00209,2026-05-05,Delivery,The order was delivered to the wrong address. Please provide an update on my request,Medium,Resolved,6.7,Neutral,Mobile App
+CMP-00210,2026-03-22,Service,The representative was not helpful. Nobody is helping me and this is terrible,Low,Resolved,4.1,Negative,Mobile App
+CMP-00211,2026-10-09,Service,The support team did not respond to my request. Please provide an update on my request,Low,Resolved,4.6,Neutral,Email
+CMP-00212,2026-09-10,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,Open,,Neutral,Mobile App
+CMP-00213,2026-01-06,Technical,I cannot reset my password. Please check the status of this issue,Medium,Resolved,0.7,Neutral,Call
+CMP-00214,2026-12-28,Technical,The mobile application shows an error. Thank you for solving my problem,Low,Resolved,5.1,Positive,Mobile App
+CMP-00215,2026-05-15,Technical,I cannot reset my password. Please check the status of this issue,Low,Resolved,3.4,Neutral,Email
+CMP-00216,2026-03-27,Product,The product I received is damaged. I am very disappointed with this service,Medium,Resolved,6.1,Negative,Mobile App
+CMP-00217,2026-08-10,Service,I am unhappy with the customer service. This is extremely frustrating and unacceptable,High,Resolved,3.7,Negative,Call
+CMP-00218,2026-10-12,Billing,I was charged twice for my subscription. Please check the status of this issue,High,Resolved,1.8,Neutral,Web
+CMP-00219,2026-02-14,Billing,My invoice contains an unexpected charge. The service team handled my request well,Medium,Resolved,0.3,Positive,Email
+CMP-00220,2026-04-12,Delivery,My package arrived late. I would like information about my complaint,Low,Resolved,4.1,Neutral,Mobile App
+CMP-00221,2026-10-22,Billing,I have not received my billing statement. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00222,2026-04-20,Product,The product I received is damaged. Thank you for solving my problem,Medium,In Progress,,Positive,Call
+CMP-00223,2026-08-17,Service,The support team did not respond to my request. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Call
+CMP-00224,2026-06-06,Product,I received the wrong product. Please provide an update on my request,Medium,Open,,Neutral,Call
+CMP-00225,2026-05-16,Service,I am unhappy with the customer service. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00226,2026-12-28,Delivery,My package arrived late. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00227,2026-10-16,Service,Nobody followed up on my complaint. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Email
+CMP-00228,2026-04-02,Service,The representative was not helpful. I would like information about my complaint,Low,In Progress,,Neutral,Web
+CMP-00229,2026-09-25,Product,The product I received is damaged. Thank you for solving my problem,Low,Resolved,1.6,Positive,Call
+CMP-00230,2026-11-16,Account,I cannot access my account. Please check the status of this issue,High,Resolved,2.4,Neutral,Call
+CMP-00231,2026-12-22,Delivery,The delivery is delayed again. The service team handled my request well,Medium,Resolved,4.8,Positive,Mobile App
+CMP-00232,2026-05-25,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,2.2,Negative,Mobile App
+CMP-00233,2026-12-09,Account,My account has been locked. I would like information about my complaint,Medium,Resolved,4.0,Neutral,Mobile App
+CMP-00234,2026-03-10,Billing,Why was my card charged after cancellation?. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00235,2026-04-07,Delivery,My order has not been delivered yet. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00236,2026-09-08,Service,I am unhappy with the customer service. Nobody is helping me and this is terrible,Low,Resolved,4.8,Negative,Email
+CMP-00237,2026-03-01,Billing,I was charged twice for my subscription. The service team handled my request well,High,Resolved,4.8,Positive,Email
+CMP-00238,2026-02-21,Technical,The mobile application shows an error. The issue was resolved quickly and I appreciate the support,Medium,Resolved,4.6,Positive,Email
+CMP-00239,2026-03-02,Service,The support team did not respond to my request. Please provide an update on my request,Medium,Open,,Neutral,Call
+CMP-00240,2026-02-11,Technical,I cannot reset my password. I would like information about my complaint,Low,Resolved,4.1,Neutral,Mobile App
+CMP-00241,2026-06-06,Technical,I am unable to complete the online payment. Please provide an update on my request,Medium,Resolved,5.7,Neutral,Call
+CMP-00242,2026-10-22,Account,I want to update my account details. Please provide an update on my request,Medium,In Progress,,Neutral,Email
+CMP-00243,2026-11-04,Product,I received the wrong product. I would like information about my complaint,Medium,Resolved,0.8,Neutral,Email
+CMP-00244,2026-08-25,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Resolved,2.8,Negative,Mobile App
+CMP-00245,2026-04-02,Delivery,My package arrived late. Please check the status of this issue,Low,Resolved,2.6,Neutral,Web
+CMP-00246,2026-11-10,Technical,The website is not loading. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Mobile App
+CMP-00247,2026-10-12,Service,The service was very slow. This is extremely frustrating and unacceptable,High,Resolved,3.3,Negative,Call
+CMP-00248,2026-11-25,Account,I am unable to verify my account. Please check the status of this issue,Low,In Progress,,Neutral,Web
+CMP-00249,2026-02-02,Service,Nobody followed up on my complaint. I would like information about my complaint,Low,Open,,Neutral,Email
+CMP-00250,2026-10-16,Service,The representative was not helpful. I am very disappointed with this service,Medium,Resolved,1.6,Negative,Web
+CMP-00251,2026-01-18,Service,Nobody followed up on my complaint. I would like information about my complaint,Low,Resolved,3.3,Neutral,Call
+CMP-00252,2026-12-07,Account,I want to update my account details. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00253,2026-02-16,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,Resolved,0.6,Negative,Web
+CMP-00254,2026-12-21,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Call
+CMP-00255,2026-09-05,Delivery,The tracking information has not updated. Thank you for solving my problem,Medium,Resolved,6.8,Positive,Mobile App
+CMP-00256,2026-04-27,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,In Progress,,Neutral,Web
+CMP-00257,2026-04-15,Billing,My invoice contains an unexpected charge. The service team handled my request well,Medium,Resolved,5.8,Positive,Mobile App
+CMP-00258,2026-10-25,Product,The item stopped working after two days. Nobody is helping me and this is terrible,Low,Resolved,4.7,Negative,Web
+CMP-00259,2026-01-08,Product,The product quality is not as expected. Nobody is helping me and this is terrible,Low,Resolved,4.8,Negative,Web
+CMP-00260,2026-01-05,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Mobile App
+CMP-00261,2026-11-17,Product,I received the wrong product. Nobody is helping me and this is terrible,Medium,Resolved,6.2,Negative,Email
+CMP-00262,2026-08-02,Technical,The website is not loading. Nobody is helping me and this is terrible,Low,Resolved,3.1,Negative,Mobile App
+CMP-00263,2026-03-25,Account,My profile information is incorrect. I would like information about my complaint,Medium,Resolved,2.2,Neutral,Call
+CMP-00264,2026-01-18,Product,The product quality is not as expected. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Call
+CMP-00265,2026-02-15,Technical,I am unable to complete the online payment. I would like information about my complaint,Low,Resolved,2.4,Neutral,Mobile App
+CMP-00266,2026-10-02,Billing,Why was my card charged after cancellation?. Please provide an update on my request,Low,Resolved,4.8,Neutral,Web
+CMP-00267,2026-06-10,Product,I received the wrong product. Please check the status of this issue,Low,Resolved,6.1,Neutral,Web
+CMP-00268,2026-12-20,Product,The product quality is not as expected. Please provide an update on my request,Medium,Open,,Neutral,Email
+CMP-00269,2026-05-09,Technical,I cannot reset my password. I would like information about my complaint,Medium,Resolved,4.6,Neutral,Mobile App
+CMP-00270,2026-06-07,Service,Nobody followed up on my complaint. The service team handled my request well,Medium,In Progress,,Positive,Mobile App
+CMP-00271,2026-01-09,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Call
+CMP-00272,2026-08-18,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Resolved,5.9,Negative,Mobile App
+CMP-00273,2026-06-06,Delivery,The tracking information has not updated. Please check the status of this issue,Medium,Resolved,5.2,Neutral,Email
+CMP-00274,2026-02-27,Account,I am unable to verify my account. The service team handled my request well,Low,Resolved,5.9,Positive,Web
+CMP-00275,2026-04-17,Billing,I have not received my billing statement. Nobody is helping me and this is terrible,Low,Resolved,1.2,Negative,Call
+CMP-00276,2026-09-18,Delivery,My order has not been delivered yet. Please check the status of this issue,Medium,Resolved,0.3,Neutral,Call
+CMP-00277,2026-09-27,Billing,I was charged twice for my subscription. I would like information about my complaint,High,Resolved,2.1,Neutral,Call
+CMP-00278,2026-05-27,Product,The product I received is damaged. Please check the status of this issue,Low,Resolved,4.4,Neutral,Mobile App
+CMP-00279,2026-04-10,Delivery,The tracking information has not updated. I am very disappointed with this service,Medium,Resolved,6.9,Negative,Web
+CMP-00280,2026-11-01,Account,I cannot access my account. I am very disappointed with this service,High,Resolved,3.4,Negative,Email
+CMP-00281,2026-02-17,Billing,I have not received my billing statement. Please check the status of this issue,Medium,Resolved,6.0,Neutral,Web
+CMP-00282,2026-11-09,Product,The product quality is not as expected. Please check the status of this issue,Medium,Resolved,6.5,Neutral,Web
+CMP-00283,2026-12-27,Product,The item stopped working after two days. This is extremely frustrating and unacceptable,High,Resolved,5.3,Negative,Call
+CMP-00284,2026-11-18,Billing,My invoice contains an unexpected charge. This is extremely frustrating and unacceptable,High,Resolved,6.0,Negative,Mobile App
+CMP-00285,2026-01-04,Technical,I cannot reset my password. Please check the status of this issue,Low,Resolved,6.8,Neutral,Call
+CMP-00286,2026-06-01,Product,The product I received is damaged. Nobody is helping me and this is terrible,Medium,Open,,Negative,Mobile App
+CMP-00287,2026-11-13,Technical,The mobile application shows an error. Nobody is helping me and this is terrible,Medium,Resolved,4.8,Negative,Web
+CMP-00288,2026-12-26,Service,I am unhappy with the customer service. Please check the status of this issue,Low,Resolved,1.2,Neutral,Email
+CMP-00289,2026-08-12,Account,My profile information is incorrect. This is extremely frustrating and unacceptable,High,Resolved,6.6,Negative,Mobile App
+CMP-00290,2026-02-01,Billing,The amount deducted from my account is incorrect. I am very disappointed with this service,Medium,Resolved,3.7,Negative,Web
+CMP-00291,2026-01-10,Delivery,The order was delivered to the wrong address. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Call
+CMP-00292,2026-04-19,Technical,The application keeps crashing when I log in. Please check the status of this issue,High,Open,,Neutral,Email
+CMP-00293,2026-03-14,Account,My profile information is incorrect. I am very disappointed with this service,Medium,Resolved,1.2,Negative,Mobile App
+CMP-00294,2026-11-16,Technical,The website is not loading. The issue was resolved quickly and I appreciate the support,Medium,Resolved,1.9,Positive,Email
+CMP-00295,2026-06-27,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Open,,Negative,Call
+CMP-00296,2026-12-07,Delivery,The tracking information has not updated. Nobody is helping me and this is terrible,Low,Resolved,4.3,Negative,Call
+CMP-00297,2026-11-16,Delivery,The delivery is delayed again. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00298,2026-10-18,Delivery,The tracking information has not updated. I am very disappointed with this service,Medium,Resolved,4.0,Negative,Email
+CMP-00299,2026-04-15,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Medium,Open,,Negative,Mobile App
+CMP-00300,2026-05-08,Account,I cannot access my account. I would like information about my complaint,High,Resolved,1.1,Neutral,Mobile App
+CMP-00301,2026-10-13,Account,My account has been locked. I would like information about my complaint,Low,Resolved,4.3,Neutral,Call
+CMP-00302,2026-11-12,Service,The support team did not respond to my request. I would like information about my complaint,Low,Resolved,1.9,Neutral,Email
+CMP-00303,2026-06-26,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Medium,Open,,Negative,Call
+CMP-00304,2026-10-23,Billing,I was charged twice for my subscription. This is extremely frustrating and unacceptable,High,Resolved,3.7,Negative,Email
+CMP-00305,2026-02-10,Technical,The website is not loading. The service team handled my request well,Low,Resolved,0.4,Positive,Call
+CMP-00306,2026-08-26,Billing,I was charged twice for my subscription. Please check the status of this issue,High,Resolved,2.3,Neutral,Email
+CMP-00307,2026-06-03,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,4.9,Negative,Mobile App
+CMP-00308,2026-03-24,Billing,I was charged twice for my subscription. I am very disappointed with this service,High,Resolved,4.8,Negative,Email
+CMP-00309,2026-04-26,Service,The service was very slow. I would like information about my complaint,Medium,Open,,Neutral,Call
+CMP-00310,2026-04-15,Account,My account has been locked. Nobody is helping me and this is terrible,Medium,Resolved,5.2,Negative,Call
+CMP-00311,2026-02-19,Technical,The application keeps crashing when I log in. Please provide an update on my request,High,Resolved,5.0,Neutral,Web
+CMP-00312,2026-08-17,Service,The service was very slow. The issue was resolved quickly and I appreciate the support,Medium,Resolved,4.8,Positive,Mobile App
+CMP-00313,2026-10-06,Service,Nobody followed up on my complaint. Please check the status of this issue,Low,Resolved,5.9,Neutral,Mobile App
+CMP-00314,2026-02-06,Service,The representative was not helpful. This is extremely frustrating and unacceptable,High,Resolved,1.8,Negative,Mobile App
+CMP-00315,2026-08-21,Account,My account has been locked. I would like information about my complaint,Low,Resolved,3.1,Neutral,Email
+CMP-00316,2026-01-28,Service,The service was very slow. The issue was resolved quickly and I appreciate the support,Low,Resolved,3.3,Positive,Mobile App
+CMP-00317,2026-12-27,Billing,I have not received my billing statement. I am very disappointed with this service,Medium,Resolved,3.5,Negative,Call
+CMP-00318,2026-04-10,Technical,I cannot reset my password. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00319,2026-08-18,Delivery,The delivery is delayed again. Please provide an update on my request,Medium,Resolved,5.5,Neutral,Web
+CMP-00320,2026-12-15,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Medium,Resolved,5.3,Negative,Email
+CMP-00321,2026-05-28,Technical,The application keeps crashing when I log in. Please check the status of this issue,High,In Progress,,Neutral,Web
+CMP-00322,2026-04-07,Technical,The website is not loading. This is extremely frustrating and unacceptable,High,Resolved,7.0,Negative,Mobile App
+CMP-00323,2026-04-26,Account,I am unable to verify my account. Please provide an update on my request,Low,In Progress,,Neutral,Web
+CMP-00324,2026-05-19,Service,I am unhappy with the customer service. Please check the status of this issue,Low,Resolved,5.0,Neutral,Mobile App
+CMP-00325,2026-11-05,Service,The support team did not respond to my request. I am very disappointed with this service,Low,Open,,Negative,Email
+CMP-00326,2026-05-21,Product,The product quality is not as expected. Please provide an update on my request,Medium,Resolved,4.1,Neutral,Call
+CMP-00327,2026-12-12,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,5.3,Negative,Call
+CMP-00328,2026-08-21,Technical,The website is not loading. Please check the status of this issue,Low,In Progress,,Neutral,Mobile App
+CMP-00329,2026-05-11,Billing,Why was my card charged after cancellation?. Thank you for solving my problem,Low,Resolved,2.4,Positive,Email
+CMP-00330,2026-08-01,Service,Nobody followed up on my complaint. Please check the status of this issue,Low,Resolved,4.5,Neutral,Web
+CMP-00331,2026-03-21,Product,The product is different from the description. Thank you for solving my problem,Low,Open,,Positive,Mobile App
+CMP-00332,2026-11-06,Product,The item stopped working after two days. I am very disappointed with this service,Medium,Resolved,4.7,Negative,Web
+CMP-00333,2026-01-07,Technical,The website is not loading. Please provide an update on my request,Medium,Resolved,5.0,Neutral,Call
+CMP-00334,2026-02-28,Billing,The amount deducted from my account is incorrect. Please check the status of this issue,Medium,Resolved,4.9,Neutral,Call
+CMP-00335,2026-02-11,Account,My account has been locked. The issue was resolved quickly and I appreciate the support,Medium,Resolved,5.7,Positive,Mobile App
+CMP-00336,2026-10-21,Delivery,The delivery is delayed again. The issue was resolved quickly and I appreciate the support,Low,Resolved,4.0,Positive,Email
+CMP-00337,2026-10-22,Technical,The website is not loading. Please check the status of this issue,Low,Open,,Neutral,Call
+CMP-00338,2026-07-11,Product,The product I received is damaged. Please provide an update on my request,Low,Resolved,2.8,Neutral,Email
+CMP-00339,2026-12-01,Product,The item stopped working after two days. Please provide an update on my request,Medium,In Progress,,Neutral,Mobile App
+CMP-00340,2026-04-16,Product,I received the wrong product. Please provide an update on my request,Medium,Resolved,0.6,Neutral,Call
+CMP-00341,2026-06-11,Billing,The amount deducted from my account is incorrect. The service team handled my request well,Low,Resolved,6.8,Positive,Email
+CMP-00342,2026-02-01,Technical,I am unable to complete the online payment. The service team handled my request well,Low,In Progress,,Positive,Web
+CMP-00343,2026-07-17,Billing,My invoice contains an unexpected charge. This is extremely frustrating and unacceptable,High,Open,,Negative,Mobile App
+CMP-00344,2026-10-05,Account,I am unable to verify my account. I would like information about my complaint,Medium,Resolved,3.8,Neutral,Mobile App
+CMP-00345,2026-03-18,Billing,My invoice contains an unexpected charge. This is extremely frustrating and unacceptable,High,Open,,Negative,Mobile App
+CMP-00346,2026-04-02,Technical,I am unable to complete the online payment. Please check the status of this issue,Low,Resolved,3.2,Neutral,Email
+CMP-00347,2026-12-06,Billing,I have not received my billing statement. Nobody is helping me and this is terrible,Low,Resolved,5.2,Negative,Web
+CMP-00348,2026-09-17,Billing,The amount deducted from my account is incorrect. Please provide an update on my request,Medium,Open,,Neutral,Mobile App
+CMP-00349,2026-01-11,Product,The item stopped working after two days. I am very disappointed with this service,Low,In Progress,,Negative,Call
+CMP-00350,2026-01-16,Delivery,The order was delivered to the wrong address. Nobody is helping me and this is terrible,Low,Resolved,3.7,Negative,Email
+CMP-00351,2026-11-24,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Open,,Negative,Web
+CMP-00352,2026-07-05,Product,I received the wrong product. This is extremely frustrating and unacceptable,High,Resolved,3.4,Negative,Email
+CMP-00353,2026-12-11,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Medium,Resolved,1.9,Neutral,Mobile App
+CMP-00354,2026-01-13,Billing,Why was my card charged after cancellation?. The service team handled my request well,Low,Resolved,5.7,Positive,Web
+CMP-00355,2026-06-07,Technical,The website is not loading. I would like information about my complaint,Medium,Resolved,3.3,Neutral,Mobile App
+CMP-00356,2026-04-24,Service,I am unhappy with the customer service. Please provide an update on my request,Medium,Resolved,6.8,Neutral,Email
+CMP-00357,2026-12-01,Product,The product I received is damaged. Please provide an update on my request,Low,Resolved,4.5,Neutral,Mobile App
+CMP-00358,2026-04-14,Billing,I have not received my billing statement. Please check the status of this issue,Medium,Resolved,3.8,Neutral,Call
+CMP-00359,2026-09-14,Billing,The amount deducted from my account is incorrect. Please provide an update on my request,Low,Open,,Neutral,Mobile App
+CMP-00360,2026-02-19,Technical,The application keeps crashing when I log in. Please check the status of this issue,High,Resolved,5.8,Neutral,Web
+CMP-00361,2026-07-23,Technical,I cannot reset my password. I am very disappointed with this service,Medium,Open,,Negative,Mobile App
+CMP-00362,2026-03-25,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,Open,,Negative,Web
+CMP-00363,2026-04-15,Product,The product I received is damaged. I am very disappointed with this service,Medium,Resolved,3.8,Negative,Mobile App
+CMP-00364,2026-05-27,Technical,The website is not loading. Please provide an update on my request,Low,In Progress,,Neutral,Web
+CMP-00365,2026-07-17,Product,The item stopped working after two days. Nobody is helping me and this is terrible,Low,Open,,Negative,Web
+CMP-00366,2026-08-18,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,2.9,Negative,Email
+CMP-00367,2026-04-05,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,Resolved,0.6,Negative,Email
+CMP-00368,2026-02-01,Technical,The website is not loading. Please check the status of this issue,Low,Resolved,2.0,Neutral,Web
+CMP-00369,2026-01-06,Product,The product is different from the description. Please provide an update on my request,Medium,Resolved,6.6,Neutral,Call
+CMP-00370,2026-03-09,Account,My profile information is incorrect. Thank you for solving my problem,Medium,Resolved,1.7,Positive,Mobile App
+CMP-00371,2026-09-16,Technical,I cannot reset my password. Nobody is helping me and this is terrible,Low,Resolved,3.6,Negative,Web
+CMP-00372,2026-04-21,Billing,My invoice contains an unexpected charge. Thank you for solving my problem,Low,Resolved,5.6,Positive,Web
+CMP-00373,2026-09-11,Technical,The website is not loading. Thank you for solving my problem,Medium,Open,,Positive,Call
+CMP-00374,2026-05-02,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Low,Resolved,5.7,Negative,Call
+CMP-00375,2026-05-18,Service,I am unhappy with the customer service. Please provide an update on my request,Low,Resolved,4.7,Neutral,Web
+CMP-00376,2026-03-06,Product,I received the wrong product. I would like information about my complaint,Medium,Open,,Neutral,Email
+CMP-00377,2026-01-23,Service,I am unhappy with the customer service. Please check the status of this issue,Medium,Open,,Neutral,Mobile App
+CMP-00378,2026-08-18,Service,The representative was not helpful. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Mobile App
+CMP-00379,2026-09-16,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Resolved,1.7,Negative,Web
+CMP-00380,2026-06-02,Delivery,The order was delivered to the wrong address. This is extremely frustrating and unacceptable,High,Resolved,1.4,Negative,Web
+CMP-00381,2026-06-03,Product,I received the wrong product. Please provide an update on my request,Low,In Progress,,Neutral,Mobile App
+CMP-00382,2026-12-14,Account,My profile information is incorrect. I would like information about my complaint,Medium,Resolved,6.8,Neutral,Call
+CMP-00383,2026-03-13,Account,I want to update my account details. Nobody is helping me and this is terrible,Medium,Resolved,4.2,Negative,Mobile App
+CMP-00384,2026-10-13,Account,I want to update my account details. Nobody is helping me and this is terrible,Low,Open,,Negative,Web
+CMP-00385,2026-08-05,Product,I received the wrong product. Nobody is helping me and this is terrible,Low,Resolved,0.9,Negative,Mobile App
+CMP-00386,2026-02-27,Account,I cannot access my account. I am very disappointed with this service,High,Resolved,6.2,Negative,Mobile App
+CMP-00387,2026-06-09,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00388,2026-03-14,Account,I cannot access my account. I am very disappointed with this service,High,In Progress,,Negative,Call
+CMP-00389,2026-10-21,Technical,The website is not loading. Please provide an update on my request,Medium,In Progress,,Neutral,Email
+CMP-00390,2026-02-03,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Resolved,2.4,Negative,Mobile App
+CMP-00391,2026-02-11,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Resolved,6.3,Negative,Call
+CMP-00392,2026-03-02,Account,I cannot access my account. The service team handled my request well,High,Resolved,6.3,Positive,Web
+CMP-00393,2026-02-02,Delivery,The delivery is delayed again. I would like information about my complaint,Medium,Resolved,2.2,Neutral,Call
+CMP-00394,2026-05-27,Service,The representative was not helpful. Please provide an update on my request,Low,Resolved,3.1,Neutral,Call
+CMP-00395,2026-08-28,Product,The product I received is damaged. This is extremely frustrating and unacceptable,High,Resolved,6.8,Negative,Web
+CMP-00396,2026-03-12,Delivery,The tracking information has not updated. The service team handled my request well,Medium,Resolved,3.9,Positive,Call
+CMP-00397,2026-05-19,Delivery,The delivery is delayed again. Thank you for solving my problem,Medium,Resolved,1.7,Positive,Web
+CMP-00398,2026-10-08,Product,The product I received is damaged. I am very disappointed with this service,Medium,Open,,Negative,Web
+CMP-00399,2026-05-03,Technical,I am unable to complete the online payment. The service team handled my request well,Medium,Resolved,1.8,Positive,Call
+CMP-00400,2026-11-20,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Email
+CMP-00401,2026-04-05,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,Open,,Negative,Web
+CMP-00402,2026-03-27,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,Resolved,5.8,Neutral,Mobile App
+CMP-00403,2026-09-15,Delivery,My order has not been delivered yet. Nobody is helping me and this is terrible,Medium,Resolved,6.0,Negative,Web
+CMP-00404,2026-10-19,Account,I am unable to verify my account. I would like information about my complaint,Low,Resolved,1.2,Neutral,Web
+CMP-00405,2026-05-13,Billing,Why was my card charged after cancellation?. I would like information about my complaint,Medium,In Progress,,Neutral,Call
+CMP-00406,2026-11-23,Service,The representative was not helpful. The issue was resolved quickly and I appreciate the support,Medium,Resolved,4.4,Positive,Call
+CMP-00407,2026-05-12,Billing,I have not received my billing statement. I would like information about my complaint,Low,Resolved,3.4,Neutral,Web
+CMP-00408,2026-04-05,Delivery,My package arrived late. I am very disappointed with this service,Low,Open,,Negative,Mobile App
+CMP-00409,2026-10-21,Account,My profile information is incorrect. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00410,2026-06-27,Product,The product is different from the description. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00411,2026-10-01,Service,The service was very slow. Nobody is helping me and this is terrible,Medium,Resolved,6.0,Negative,Email
+CMP-00412,2026-12-07,Product,The product quality is not as expected. Please provide an update on my request,Low,Resolved,6.4,Neutral,Mobile App
+CMP-00413,2026-04-12,Delivery,The tracking information has not updated. Please check the status of this issue,Low,In Progress,,Neutral,Call
+CMP-00414,2026-05-24,Service,Nobody followed up on my complaint. I am very disappointed with this service,Medium,Resolved,5.9,Negative,Web
+CMP-00415,2026-11-08,Delivery,My order has not been delivered yet. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Email
+CMP-00416,2026-03-20,Delivery,The tracking information has not updated. Please check the status of this issue,Low,Resolved,1.1,Neutral,Web
+CMP-00417,2026-06-15,Product,The item stopped working after two days. I would like information about my complaint,Medium,Resolved,2.8,Neutral,Mobile App
+CMP-00418,2026-11-27,Product,The product is different from the description. Nobody is helping me and this is terrible,Medium,Resolved,0.2,Negative,Mobile App
+CMP-00419,2026-05-21,Service,The representative was not helpful. I would like information about my complaint,Low,Resolved,2.5,Neutral,Mobile App
+CMP-00420,2026-04-02,Delivery,My package arrived late. Please check the status of this issue,Medium,Resolved,3.7,Neutral,Call
+CMP-00421,2026-05-14,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,7.0,Neutral,Call
+CMP-00422,2026-06-24,Technical,The application keeps crashing when I log in. Please check the status of this issue,High,In Progress,,Neutral,Email
+CMP-00423,2026-11-18,Account,I am unable to verify my account. I would like information about my complaint,Medium,Resolved,5.9,Neutral,Email
+CMP-00424,2026-09-25,Delivery,My order has not been delivered yet. The service team handled my request well,Medium,In Progress,,Positive,Email
+CMP-00425,2026-07-26,Account,I want to update my account details. Please provide an update on my request,Medium,Resolved,6.1,Neutral,Mobile App
+CMP-00426,2026-10-19,Delivery,My package arrived late. I would like information about my complaint,Low,Resolved,6.1,Neutral,Web
+CMP-00427,2026-03-05,Technical,I cannot reset my password. Please check the status of this issue,Medium,Resolved,3.0,Neutral,Email
+CMP-00428,2026-02-16,Delivery,The tracking information has not updated. I would like information about my complaint,Low,Resolved,5.1,Neutral,Mobile App
+CMP-00429,2026-03-19,Account,My account has been locked. This is extremely frustrating and unacceptable,High,Resolved,2.1,Negative,Email
+CMP-00430,2026-08-13,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,Resolved,2.9,Negative,Web
+CMP-00431,2026-09-07,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Low,Open,,Negative,Web
+CMP-00432,2026-05-05,Account,I cannot access my account. Please provide an update on my request,High,Resolved,6.2,Neutral,Web
+CMP-00433,2026-05-10,Technical,I am unable to complete the online payment. Please provide an update on my request,Low,In Progress,,Neutral,Call
+CMP-00434,2026-03-11,Account,I am unable to verify my account. I would like information about my complaint,Medium,Open,,Neutral,Call
+CMP-00435,2026-03-07,Delivery,The delivery is delayed again. I am very disappointed with this service,Low,Resolved,5.1,Negative,Web
+CMP-00436,2026-09-20,Service,The representative was not helpful. I am very disappointed with this service,Low,Resolved,4.6,Negative,Web
+CMP-00437,2026-08-13,Service,The support team did not respond to my request. Please check the status of this issue,Low,Resolved,1.0,Neutral,Web
+CMP-00438,2026-11-01,Service,I am unhappy with the customer service. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Mobile App
+CMP-00439,2026-07-27,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,Resolved,5.0,Neutral,Web
+CMP-00440,2026-08-07,Service,The representative was not helpful. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Email
+CMP-00441,2026-08-07,Delivery,The order was delivered to the wrong address. I would like information about my complaint,Medium,Resolved,0.5,Neutral,Call
+CMP-00442,2026-10-22,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Low,Open,,Negative,Call
+CMP-00443,2026-11-08,Product,The product I received is damaged. Please provide an update on my request,Low,Open,,Neutral,Call
+CMP-00444,2026-05-12,Delivery,My package arrived late. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Mobile App
+CMP-00445,2026-11-06,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Resolved,1.1,Negative,Mobile App
+CMP-00446,2026-02-13,Delivery,The tracking information has not updated. I would like information about my complaint,Low,Resolved,2.5,Neutral,Call
+CMP-00447,2026-11-26,Technical,The website is not loading. Please check the status of this issue,Medium,In Progress,,Neutral,Email
+CMP-00448,2026-08-26,Billing,The amount deducted from my account is incorrect. Please provide an update on my request,Low,Resolved,6.4,Neutral,Call
+CMP-00449,2026-12-05,Product,I received the wrong product. Thank you for solving my problem,Low,In Progress,,Positive,Call
+CMP-00450,2026-06-01,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,Resolved,2.0,Neutral,Email
+CMP-00451,2026-08-12,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,5.1,Neutral,Call
+CMP-00452,2026-09-28,Product,I received the wrong product. Please check the status of this issue,Low,Resolved,6.6,Neutral,Call
+CMP-00453,2026-01-17,Technical,I cannot reset my password. I am very disappointed with this service,Medium,Resolved,6.8,Negative,Email
+CMP-00454,2026-08-03,Service,Nobody followed up on my complaint. The issue was resolved quickly and I appreciate the support,Low,Resolved,5.6,Positive,Call
+CMP-00455,2026-09-18,Technical,The website is not loading. I am very disappointed with this service,Low,Resolved,3.0,Negative,Web
+CMP-00456,2026-09-07,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Medium,Open,,Neutral,Call
+CMP-00457,2026-10-16,Delivery,My package arrived late. Please provide an update on my request,Medium,Resolved,5.4,Neutral,Mobile App
+CMP-00458,2026-11-26,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Low,Resolved,2.6,Negative,Mobile App
+CMP-00459,2026-08-05,Service,The representative was not helpful. The issue was resolved quickly and I appreciate the support,Low,Open,,Positive,Call
+CMP-00460,2026-07-07,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Low,Open,,Neutral,Call
+CMP-00461,2026-11-19,Product,The item stopped working after two days. I am very disappointed with this service,Low,Open,,Negative,Web
+CMP-00462,2026-01-17,Technical,The mobile application shows an error. Please check the status of this issue,Low,Open,,Neutral,Web
+CMP-00463,2026-03-24,Service,Nobody followed up on my complaint. I would like information about my complaint,Low,In Progress,,Neutral,Email
+CMP-00464,2026-10-23,Billing,I have not received my billing statement. Please check the status of this issue,Medium,Resolved,2.8,Neutral,Email
+CMP-00465,2026-03-14,Delivery,The tracking information has not updated. I would like information about my complaint,Medium,In Progress,,Neutral,Mobile App
+CMP-00466,2026-05-22,Account,I am unable to verify my account. Please check the status of this issue,Low,Resolved,4.4,Neutral,Mobile App
+CMP-00467,2026-06-23,Account,My account has been locked. Please check the status of this issue,Low,Resolved,4.9,Neutral,Web
+CMP-00468,2026-09-10,Delivery,The order was delivered to the wrong address. The service team handled my request well,Medium,Resolved,6.3,Positive,Call
+CMP-00469,2026-05-25,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Low,Resolved,0.6,Negative,Email
+CMP-00470,2026-05-07,Delivery,My package arrived late. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00471,2026-09-13,Delivery,The tracking information has not updated. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Email
+CMP-00472,2026-11-11,Service,I am unhappy with the customer service. Please provide an update on my request,Medium,Resolved,6.7,Neutral,Web
+CMP-00473,2026-12-23,Billing,My invoice contains an unexpected charge. I am very disappointed with this service,Low,Open,,Negative,Mobile App
+CMP-00474,2026-11-03,Service,The representative was not helpful. Please provide an update on my request,Low,Resolved,1.4,Neutral,Email
+CMP-00475,2026-03-06,Product,I received the wrong product. This is extremely frustrating and unacceptable,High,Resolved,4.0,Negative,Mobile App
+CMP-00476,2026-01-25,Billing,My invoice contains an unexpected charge. The issue was resolved quickly and I appreciate the support,Low,Resolved,2.4,Positive,Mobile App
+CMP-00477,2026-09-03,Technical,I am unable to complete the online payment. Please provide an update on my request,Medium,Resolved,6.7,Neutral,Email
+CMP-00478,2026-06-11,Technical,I am unable to complete the online payment. Please provide an update on my request,Medium,Resolved,1.7,Neutral,Mobile App
+CMP-00479,2026-11-01,Delivery,The delivery is delayed again. Please check the status of this issue,Medium,Open,,Neutral,Web
+CMP-00480,2026-11-11,Account,I want to update my account details. The service team handled my request well,Low,Open,,Positive,Call
+CMP-00481,2026-06-17,Billing,I have not received my billing statement. Nobody is helping me and this is terrible,Medium,Resolved,3.7,Negative,Call
+CMP-00482,2026-02-06,Technical,The application keeps crashing when I log in. Nobody is helping me and this is terrible,High,Resolved,3.7,Negative,Web
+CMP-00483,2026-11-14,Account,I cannot access my account. Nobody is helping me and this is terrible,High,In Progress,,Negative,Web
+CMP-00484,2026-12-22,Product,I received the wrong product. Please check the status of this issue,Medium,Resolved,6.6,Neutral,Email
+CMP-00485,2026-05-18,Billing,I have not received my billing statement. Please provide an update on my request,Low,Resolved,1.4,Neutral,Web
+CMP-00486,2026-06-01,Service,The service was very slow. I would like information about my complaint,Medium,Resolved,3.0,Neutral,Call
+CMP-00487,2026-02-25,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Web
+CMP-00488,2026-05-20,Account,I cannot access my account. The service team handled my request well,High,Resolved,5.6,Positive,Web
+CMP-00489,2026-03-24,Delivery,The tracking information has not updated. The service team handled my request well,Low,Resolved,3.8,Positive,Call
+CMP-00490,2026-12-21,Service,I am unhappy with the customer service. Please provide an update on my request,Medium,Resolved,6.4,Neutral,Mobile App
+CMP-00491,2026-07-18,Billing,Why was my card charged after cancellation?. Please provide an update on my request,Low,Resolved,4.1,Neutral,Web
+CMP-00492,2026-09-05,Delivery,The delivery is delayed again. Please check the status of this issue,Medium,Resolved,6.4,Neutral,Email
+CMP-00493,2026-10-28,Product,The product quality is not as expected. I would like information about my complaint,Low,Resolved,4.8,Neutral,Web
+CMP-00494,2026-04-24,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,Resolved,1.9,Neutral,Call
+CMP-00495,2026-04-11,Delivery,My package arrived late. Nobody is helping me and this is terrible,Low,Resolved,4.4,Negative,Call
+CMP-00496,2026-06-14,Technical,The website is not loading. I would like information about my complaint,Low,Resolved,2.7,Neutral,Email
+CMP-00497,2026-11-14,Billing,My invoice contains an unexpected charge. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Mobile App
+CMP-00498,2026-05-16,Delivery,The delivery is delayed again. I would like information about my complaint,Medium,Resolved,2.6,Neutral,Web
+CMP-00499,2026-04-09,Product,I received the wrong product. I am very disappointed with this service,Low,Open,,Negative,Web
+CMP-00500,2026-10-13,Account,I cannot access my account. Please check the status of this issue,High,Resolved,5.7,Neutral,Email
+CMP-00501,2026-07-08,Billing,Why was my card charged after cancellation?. Nobody is helping me and this is terrible,Medium,Resolved,1.2,Negative,Mobile App
+CMP-00502,2026-04-28,Product,The product is different from the description. Please provide an update on my request,Medium,Resolved,0.3,Neutral,Email
+CMP-00503,2026-08-12,Service,The service was very slow. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Web
+CMP-00504,2026-09-26,Product,The product is different from the description. I am very disappointed with this service,Medium,Resolved,4.7,Negative,Mobile App
+CMP-00505,2026-06-04,Technical,The mobile application shows an error. Please provide an update on my request,Low,Open,,Neutral,Mobile App
+CMP-00506,2026-10-21,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,2.8,Neutral,Web
+CMP-00507,2026-08-26,Service,I am unhappy with the customer service. The issue was resolved quickly and I appreciate the support,Medium,Resolved,6.1,Positive,Call
+CMP-00508,2026-11-09,Service,The support team did not respond to my request. Please provide an update on my request,Medium,Resolved,0.7,Neutral,Email
+CMP-00509,2026-06-24,Product,The product quality is not as expected. Nobody is helping me and this is terrible,Low,Resolved,3.0,Negative,Web
+CMP-00510,2026-04-02,Technical,The mobile application shows an error. The service team handled my request well,Low,Resolved,3.0,Positive,Email
+CMP-00511,2026-03-02,Service,The representative was not helpful. Nobody is helping me and this is terrible,Low,Open,,Negative,Email
+CMP-00512,2026-12-22,Delivery,The delivery is delayed again. I would like information about my complaint,Low,In Progress,,Neutral,Mobile App
+CMP-00513,2026-10-05,Billing,The amount deducted from my account is incorrect. Thank you for solving my problem,Medium,Resolved,5.8,Positive,Email
+CMP-00514,2026-10-19,Service,The representative was not helpful. Nobody is helping me and this is terrible,Medium,Open,,Negative,Web
+CMP-00515,2026-09-22,Product,The product is different from the description. The issue was resolved quickly and I appreciate the support,Low,Resolved,6.0,Positive,Call
+CMP-00516,2026-09-17,Product,I received the wrong product. I am very disappointed with this service,Low,In Progress,,Negative,Web
+CMP-00517,2026-11-21,Billing,I have not received my billing statement. Please check the status of this issue,Low,Open,,Neutral,Call
+CMP-00518,2026-07-12,Service,Nobody followed up on my complaint. The issue was resolved quickly and I appreciate the support,Medium,Resolved,5.7,Positive,Web
+CMP-00519,2026-02-10,Technical,I cannot reset my password. This is extremely frustrating and unacceptable,High,Open,,Negative,Call
+CMP-00520,2026-01-13,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Low,Resolved,1.0,Negative,Email
+CMP-00521,2026-05-28,Account,I want to update my account details. The issue was resolved quickly and I appreciate the support,Low,Resolved,4.2,Positive,Call
+CMP-00522,2026-07-18,Service,I am unhappy with the customer service. Please check the status of this issue,Medium,In Progress,,Neutral,Call
+CMP-00523,2026-10-12,Product,The item stopped working after two days. I would like information about my complaint,Medium,Open,,Neutral,Call
+CMP-00524,2026-08-26,Account,My account has been locked. Please check the status of this issue,Low,In Progress,,Neutral,Email
+CMP-00525,2026-01-26,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,Resolved,6.8,Neutral,Web
+CMP-00526,2026-02-20,Product,The product is different from the description. I would like information about my complaint,Low,Resolved,1.7,Neutral,Web
+CMP-00527,2026-10-02,Account,My profile information is incorrect. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00528,2026-09-17,Account,My profile information is incorrect. The issue was resolved quickly and I appreciate the support,Medium,Resolved,5.5,Positive,Email
+CMP-00529,2026-02-09,Service,The service was very slow. I would like information about my complaint,Low,Resolved,6.8,Neutral,Call
+CMP-00530,2026-02-03,Delivery,The tracking information has not updated. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Mobile App
+CMP-00531,2026-05-08,Account,I am unable to verify my account. I would like information about my complaint,Medium,Open,,Neutral,Email
+CMP-00532,2026-02-17,Technical,The mobile application shows an error. I would like information about my complaint,Low,Resolved,0.9,Neutral,Mobile App
+CMP-00533,2026-07-19,Delivery,My order has not been delivered yet. I would like information about my complaint,Medium,In Progress,,Neutral,Call
+CMP-00534,2026-01-16,Product,The item stopped working after two days. I would like information about my complaint,Medium,Open,,Neutral,Web
+CMP-00535,2026-07-12,Delivery,My order has not been delivered yet. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Web
+CMP-00536,2026-06-03,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,5.3,Negative,Email
+CMP-00537,2026-04-16,Technical,The website is not loading. The service team handled my request well,Medium,Resolved,5.3,Positive,Email
+CMP-00538,2026-10-12,Product,The product quality is not as expected. Please provide an update on my request,Low,Resolved,1.9,Neutral,Email
+CMP-00539,2026-08-20,Billing,I was charged twice for my subscription. Please check the status of this issue,High,Open,,Neutral,Web
+CMP-00540,2026-10-28,Service,The support team did not respond to my request. I would like information about my complaint,Medium,Resolved,6.9,Neutral,Mobile App
+CMP-00541,2026-03-02,Technical,I cannot reset my password. Please check the status of this issue,Medium,Resolved,5.3,Neutral,Call
+CMP-00542,2026-03-15,Technical,I am unable to complete the online payment. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00543,2026-10-04,Account,I am unable to verify my account. The service team handled my request well,Low,Resolved,1.6,Positive,Mobile App
+CMP-00544,2026-10-11,Delivery,The order was delivered to the wrong address. Please provide an update on my request,Medium,Resolved,3.4,Neutral,Mobile App
+CMP-00545,2026-08-06,Product,The product is different from the description. Thank you for solving my problem,Medium,Resolved,2.9,Positive,Email
+CMP-00546,2026-09-14,Service,The service was very slow. Please check the status of this issue,Medium,In Progress,,Neutral,Call
+CMP-00547,2026-07-16,Product,The product quality is not as expected. Please check the status of this issue,Low,Resolved,0.3,Neutral,Email
+CMP-00548,2026-10-02,Account,I am unable to verify my account. I would like information about my complaint,Medium,Resolved,4.0,Neutral,Call
+CMP-00549,2026-02-15,Billing,The amount deducted from my account is incorrect. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00550,2026-06-28,Delivery,My package arrived late. The service team handled my request well,Medium,Resolved,3.0,Positive,Email
+CMP-00551,2026-05-12,Service,The representative was not helpful. Please check the status of this issue,Low,Open,,Neutral,Mobile App
+CMP-00552,2026-07-20,Account,I am unable to verify my account. The service team handled my request well,Medium,Open,,Positive,Mobile App
+CMP-00553,2026-07-28,Technical,I cannot reset my password. Please check the status of this issue,Medium,Resolved,4.4,Neutral,Web
+CMP-00554,2026-10-21,Billing,The amount deducted from my account is incorrect. I am very disappointed with this service,Medium,Resolved,5.0,Negative,Call
+CMP-00555,2026-01-05,Delivery,The tracking information has not updated. I would like information about my complaint,Medium,Resolved,1.5,Neutral,Email
+CMP-00556,2026-02-03,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,2.9,Neutral,Call
+CMP-00557,2026-02-21,Service,The support team did not respond to my request. I am very disappointed with this service,Low,Resolved,4.4,Negative,Call
+CMP-00558,2026-03-01,Delivery,The delivery is delayed again. I am very disappointed with this service,Medium,Resolved,1.1,Negative,Web
+CMP-00559,2026-05-18,Account,I want to update my account details. I would like information about my complaint,Medium,Resolved,6.1,Neutral,Call
+CMP-00560,2026-10-14,Product,I received the wrong product. Nobody is helping me and this is terrible,Medium,Resolved,4.5,Negative,Mobile App
+CMP-00561,2026-03-10,Delivery,The tracking information has not updated. Please provide an update on my request,Medium,Resolved,3.0,Neutral,Web
+CMP-00562,2026-12-16,Billing,Why was my card charged after cancellation?. Please provide an update on my request,Medium,Resolved,3.8,Neutral,Call
+CMP-00563,2026-09-12,Delivery,My order has not been delivered yet. I would like information about my complaint,Low,In Progress,,Neutral,Email
+CMP-00564,2026-11-13,Technical,I am unable to complete the online payment. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Call
+CMP-00565,2026-10-26,Product,The item stopped working after two days. Nobody is helping me and this is terrible,Low,Resolved,5.6,Negative,Mobile App
+CMP-00566,2026-03-05,Delivery,The order was delivered to the wrong address. I would like information about my complaint,Low,In Progress,,Neutral,Mobile App
+CMP-00567,2026-01-18,Billing,I have not received my billing statement. I would like information about my complaint,Medium,Resolved,0.3,Neutral,Web
+CMP-00568,2026-12-01,Product,The product I received is damaged. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Email
+CMP-00569,2026-08-12,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,Resolved,2.3,Negative,Call
+CMP-00570,2026-02-18,Account,I cannot access my account. This is extremely frustrating and unacceptable,High,Resolved,5.5,Negative,Call
+CMP-00571,2026-02-25,Product,The product quality is not as expected. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00572,2026-02-17,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,5.2,Negative,Email
+CMP-00573,2026-12-18,Technical,The mobile application shows an error. I would like information about my complaint,Medium,Resolved,5.2,Neutral,Web
+CMP-00574,2026-11-07,Delivery,The tracking information has not updated. Please provide an update on my request,Medium,Open,,Neutral,Web
+CMP-00575,2026-10-04,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Call
+CMP-00576,2026-03-12,Product,The product I received is damaged. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00577,2026-11-02,Product,The product quality is not as expected. The service team handled my request well,Medium,Open,,Positive,Web
+CMP-00578,2026-09-26,Delivery,The delivery is delayed again. Please provide an update on my request,Low,Resolved,2.4,Neutral,Mobile App
+CMP-00579,2026-05-02,Technical,I cannot reset my password. I am very disappointed with this service,Medium,In Progress,,Negative,Call
+CMP-00580,2026-06-11,Account,My profile information is incorrect. Please check the status of this issue,Medium,Resolved,1.5,Neutral,Call
+CMP-00581,2026-05-27,Delivery,The order was delivered to the wrong address. Please check the status of this issue,Low,Resolved,1.3,Neutral,Mobile App
+CMP-00582,2026-01-20,Service,I am unhappy with the customer service. The service team handled my request well,Medium,In Progress,,Positive,Mobile App
+CMP-00583,2026-07-07,Service,The service was very slow. This is extremely frustrating and unacceptable,High,Resolved,3.9,Negative,Call
+CMP-00584,2026-09-22,Service,The service was very slow. I would like information about my complaint,Medium,Resolved,1.0,Neutral,Web
+CMP-00585,2026-02-02,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,Resolved,3.5,Negative,Call
+CMP-00586,2026-12-03,Account,My profile information is incorrect. Please check the status of this issue,Medium,Resolved,1.7,Neutral,Web
+CMP-00587,2026-01-12,Product,The product is different from the description. Please provide an update on my request,Medium,In Progress,,Neutral,Call
+CMP-00588,2026-05-03,Delivery,My order has not been delivered yet. I would like information about my complaint,Low,In Progress,,Neutral,Email
+CMP-00589,2026-09-22,Service,The support team did not respond to my request. This is extremely frustrating and unacceptable,High,Resolved,1.5,Negative,Email
+CMP-00590,2026-11-19,Service,The service was very slow. Please check the status of this issue,Medium,In Progress,,Neutral,Mobile App
+CMP-00591,2026-07-17,Account,My profile information is incorrect. I would like information about my complaint,Low,Resolved,1.4,Neutral,Mobile App
+CMP-00592,2026-06-18,Account,My account has been locked. Please check the status of this issue,Medium,Open,,Neutral,Mobile App
+CMP-00593,2026-04-13,Delivery,The tracking information has not updated. I would like information about my complaint,Medium,Resolved,4.0,Neutral,Mobile App
+CMP-00594,2026-05-20,Delivery,The tracking information has not updated. Thank you for solving my problem,Low,In Progress,,Positive,Web
+CMP-00595,2026-06-01,Service,The service was very slow. I would like information about my complaint,Low,Resolved,1.7,Neutral,Mobile App
+CMP-00596,2026-03-05,Service,The representative was not helpful. Please check the status of this issue,Low,Resolved,3.3,Neutral,Mobile App
+CMP-00597,2026-04-24,Delivery,The order was delivered to the wrong address. I am very disappointed with this service,Medium,Resolved,2.9,Negative,Web
+CMP-00598,2026-12-23,Account,I want to update my account details. Please provide an update on my request,Medium,In Progress,,Neutral,Web
+CMP-00599,2026-06-12,Service,I am unhappy with the customer service. Nobody is helping me and this is terrible,Medium,Resolved,0.6,Negative,Call
+CMP-00600,2026-10-01,Technical,The application keeps crashing when I log in. Please provide an update on my request,High,In Progress,,Neutral,Call
+CMP-00601,2026-03-02,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Low,Resolved,4.9,Neutral,Call
+CMP-00602,2026-03-05,Technical,I am unable to complete the online payment. Please provide an update on my request,Low,Resolved,5.5,Neutral,Mobile App
+CMP-00603,2026-07-25,Billing,I have not received my billing statement. Please provide an update on my request,Medium,Resolved,2.9,Neutral,Email
+CMP-00604,2026-10-24,Product,The product is different from the description. I would like information about my complaint,Medium,Resolved,1.5,Neutral,Email
+CMP-00605,2026-10-03,Product,The product I received is damaged. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00606,2026-01-25,Account,My profile information is incorrect. Thank you for solving my problem,Low,Resolved,4.2,Positive,Mobile App
+CMP-00607,2026-04-07,Product,The item stopped working after two days. I would like information about my complaint,Low,Resolved,6.5,Neutral,Mobile App
+CMP-00608,2026-03-28,Product,The product I received is damaged. This is extremely frustrating and unacceptable,High,Resolved,4.4,Negative,Mobile App
+CMP-00609,2026-04-24,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Medium,Resolved,0.4,Neutral,Email
+CMP-00610,2026-12-23,Product,I received the wrong product. I would like information about my complaint,Medium,Resolved,6.9,Neutral,Web
+CMP-00611,2026-04-26,Technical,I am unable to complete the online payment. Please check the status of this issue,Low,Resolved,0.6,Neutral,Mobile App
+CMP-00612,2026-11-12,Billing,I have not received my billing statement. Please provide an update on my request,Low,Resolved,2.0,Neutral,Web
+CMP-00613,2026-12-04,Billing,My invoice contains an unexpected charge. Please check the status of this issue,Medium,Resolved,2.8,Neutral,Mobile App
+CMP-00614,2026-12-01,Technical,I am unable to complete the online payment. Please provide an update on my request,Low,Resolved,3.3,Neutral,Web
+CMP-00615,2026-01-12,Product,I received the wrong product. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00616,2026-11-09,Delivery,My package arrived late. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Call
+CMP-00617,2026-03-03,Billing,Why was my card charged after cancellation?. Please provide an update on my request,Low,Resolved,2.9,Neutral,Call
+CMP-00618,2026-07-10,Service,The representative was not helpful. Please check the status of this issue,Low,Resolved,4.1,Neutral,Mobile App
+CMP-00619,2026-04-28,Technical,I am unable to complete the online payment. Nobody is helping me and this is terrible,Low,Resolved,4.9,Negative,Email
+CMP-00620,2026-03-11,Delivery,The order was delivered to the wrong address. I would like information about my complaint,Low,Resolved,4.0,Neutral,Web
+CMP-00621,2026-12-01,Service,The representative was not helpful. Please provide an update on my request,Low,Resolved,6.2,Neutral,Mobile App
+CMP-00622,2026-03-06,Technical,The mobile application shows an error. Nobody is helping me and this is terrible,Medium,Resolved,1.5,Negative,Web
+CMP-00623,2026-01-12,Service,The representative was not helpful. Nobody is helping me and this is terrible,Low,Resolved,1.8,Negative,Web
+CMP-00624,2026-06-06,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Call
+CMP-00625,2026-01-09,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,3.0,Negative,Call
+CMP-00626,2026-08-28,Product,The product quality is not as expected. Please provide an update on my request,Low,Open,,Neutral,Call
+CMP-00627,2026-12-27,Account,I want to update my account details. Please provide an update on my request,Medium,Resolved,0.5,Neutral,Call
+CMP-00628,2026-01-08,Account,I want to update my account details. The service team handled my request well,Low,Resolved,3.3,Positive,Call
+CMP-00629,2026-01-07,Account,I cannot access my account. Please check the status of this issue,High,In Progress,,Neutral,Mobile App
+CMP-00630,2026-01-23,Technical,The mobile application shows an error. I would like information about my complaint,Medium,Resolved,2.2,Neutral,Email
+CMP-00631,2026-12-18,Technical,The mobile application shows an error. Nobody is helping me and this is terrible,Low,Resolved,4.2,Negative,Email
+CMP-00632,2026-12-07,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,4.2,Negative,Call
+CMP-00633,2026-02-03,Billing,My invoice contains an unexpected charge. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Web
+CMP-00634,2026-09-20,Account,My profile information is incorrect. Please provide an update on my request,Medium,In Progress,,Neutral,Email
+CMP-00635,2026-03-06,Technical,I am unable to complete the online payment. The issue was resolved quickly and I appreciate the support,Medium,Resolved,4.7,Positive,Email
+CMP-00636,2026-03-07,Product,The product I received is damaged. Thank you for solving my problem,Medium,Resolved,1.4,Positive,Web
+CMP-00637,2026-08-08,Service,I am unhappy with the customer service. I am very disappointed with this service,Medium,Resolved,0.2,Negative,Email
+CMP-00638,2026-09-09,Service,Nobody followed up on my complaint. Thank you for solving my problem,Low,Resolved,0.2,Positive,Email
+CMP-00639,2026-11-19,Billing,The amount deducted from my account is incorrect. Nobody is helping me and this is terrible,Medium,Resolved,6.0,Negative,Mobile App
+CMP-00640,2026-11-23,Delivery,My order has not been delivered yet. I am very disappointed with this service,Low,Resolved,2.1,Negative,Email
+CMP-00641,2026-06-12,Technical,I am unable to complete the online payment. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Call
+CMP-00642,2026-05-11,Billing,I have not received my billing statement. Please provide an update on my request,Medium,Resolved,1.0,Neutral,Call
+CMP-00643,2026-11-17,Service,The service was very slow. Please check the status of this issue,Low,Resolved,5.2,Neutral,Web
+CMP-00644,2026-05-17,Technical,I am unable to complete the online payment. Please check the status of this issue,Medium,Resolved,6.0,Neutral,Mobile App
+CMP-00645,2026-10-08,Product,I received the wrong product. Please check the status of this issue,Medium,Resolved,1.4,Neutral,Mobile App
+CMP-00646,2026-04-26,Product,The product I received is damaged. I am very disappointed with this service,Low,In Progress,,Negative,Call
+CMP-00647,2026-04-01,Technical,The application keeps crashing when I log in. Nobody is helping me and this is terrible,High,In Progress,,Negative,Email
+CMP-00648,2026-06-25,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,3.6,Negative,Web
+CMP-00649,2026-04-11,Billing,My invoice contains an unexpected charge. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Mobile App
+CMP-00650,2026-09-11,Account,My profile information is incorrect. Please provide an update on my request,Low,Resolved,4.5,Neutral,Call
+CMP-00651,2026-09-18,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,Resolved,4.8,Neutral,Web
+CMP-00652,2026-05-27,Product,I received the wrong product. I would like information about my complaint,Low,Open,,Neutral,Web
+CMP-00653,2026-05-23,Delivery,The tracking information has not updated. Please provide an update on my request,Medium,Resolved,1.0,Neutral,Mobile App
+CMP-00654,2026-08-27,Account,I cannot access my account. This is extremely frustrating and unacceptable,High,Resolved,1.8,Negative,Mobile App
+CMP-00655,2026-04-03,Product,I received the wrong product. This is extremely frustrating and unacceptable,High,Resolved,0.5,Negative,Call
+CMP-00656,2026-12-28,Service,The support team did not respond to my request. Please check the status of this issue,Low,Resolved,6.5,Neutral,Mobile App
+CMP-00657,2026-07-23,Delivery,The delivery is delayed again. Please provide an update on my request,Low,Resolved,0.4,Neutral,Web
+CMP-00658,2026-02-17,Billing,My invoice contains an unexpected charge. Please check the status of this issue,Low,Resolved,6.2,Neutral,Mobile App
+CMP-00659,2026-05-18,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Low,Resolved,1.5,Neutral,Mobile App
+CMP-00660,2026-10-18,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Resolved,0.3,Negative,Web
+CMP-00661,2026-05-19,Product,I received the wrong product. Thank you for solving my problem,Medium,Resolved,5.0,Positive,Email
+CMP-00662,2026-11-02,Product,The product I received is damaged. I am very disappointed with this service,Medium,Resolved,0.4,Negative,Web
+CMP-00663,2026-10-21,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,Resolved,4.3,Negative,Call
+CMP-00664,2026-11-26,Service,I am unhappy with the customer service. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00665,2026-11-23,Technical,I am unable to complete the online payment. Nobody is helping me and this is terrible,Medium,Resolved,2.3,Negative,Call
+CMP-00666,2026-07-06,Technical,I cannot reset my password. Please provide an update on my request,Medium,Open,,Neutral,Mobile App
+CMP-00667,2026-03-10,Delivery,The tracking information has not updated. The issue was resolved quickly and I appreciate the support,Medium,Resolved,3.5,Positive,Mobile App
+CMP-00668,2026-02-11,Service,The representative was not helpful. This is extremely frustrating and unacceptable,High,Resolved,5.1,Negative,Web
+CMP-00669,2026-03-16,Delivery,The order was delivered to the wrong address. The service team handled my request well,Medium,Resolved,1.9,Positive,Call
+CMP-00670,2026-07-19,Billing,My invoice contains an unexpected charge. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Mobile App
+CMP-00671,2026-12-19,Service,The service was very slow. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Call
+CMP-00672,2026-03-10,Billing,Why was my card charged after cancellation?. I would like information about my complaint,Low,In Progress,,Neutral,Call
+CMP-00673,2026-01-03,Billing,Why was my card charged after cancellation?. Nobody is helping me and this is terrible,Medium,Resolved,4.6,Negative,Email
+CMP-00674,2026-11-05,Product,I received the wrong product. Please check the status of this issue,Low,In Progress,,Neutral,Call
+CMP-00675,2026-06-10,Service,I am unhappy with the customer service. The service team handled my request well,Medium,Resolved,4.8,Positive,Mobile App
+CMP-00676,2026-03-28,Technical,The website is not loading. Please check the status of this issue,Low,Resolved,3.7,Neutral,Mobile App
+CMP-00677,2026-06-04,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Low,In Progress,,Neutral,Mobile App
+CMP-00678,2026-07-13,Billing,The amount deducted from my account is incorrect. The service team handled my request well,Medium,Resolved,5.0,Positive,Call
+CMP-00679,2026-06-27,Service,The service was very slow. I would like information about my complaint,Low,Resolved,2.8,Neutral,Call
+CMP-00680,2026-01-05,Product,The item stopped working after two days. Please check the status of this issue,Low,Resolved,0.7,Neutral,Call
+CMP-00681,2026-08-26,Account,My profile information is incorrect. Please provide an update on my request,Low,Resolved,5.7,Neutral,Call
+CMP-00682,2026-07-20,Service,The service was very slow. Thank you for solving my problem,Medium,Resolved,1.7,Positive,Web
+CMP-00683,2026-06-02,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,Resolved,3.9,Neutral,Web
+CMP-00684,2026-02-05,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,Open,,Neutral,Mobile App
+CMP-00685,2026-11-22,Technical,I am unable to complete the online payment. Nobody is helping me and this is terrible,Low,Resolved,4.5,Negative,Web
+CMP-00686,2026-09-25,Account,I am unable to verify my account. I would like information about my complaint,Low,Open,,Neutral,Web
+CMP-00687,2026-05-10,Technical,The mobile application shows an error. I would like information about my complaint,Medium,Resolved,6.7,Neutral,Email
+CMP-00688,2026-03-19,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Medium,Resolved,3.4,Neutral,Web
+CMP-00689,2026-09-03,Account,I want to update my account details. Please check the status of this issue,Low,Resolved,0.8,Neutral,Mobile App
+CMP-00690,2026-03-19,Delivery,The delivery is delayed again. I would like information about my complaint,Medium,Resolved,1.0,Neutral,Email
+CMP-00691,2026-04-16,Account,My profile information is incorrect. The issue was resolved quickly and I appreciate the support,Medium,In Progress,,Positive,Email
+CMP-00692,2026-10-27,Service,The support team did not respond to my request. This is extremely frustrating and unacceptable,High,Open,,Negative,Email
+CMP-00693,2026-03-07,Technical,The mobile application shows an error. Please provide an update on my request,Medium,In Progress,,Neutral,Mobile App
+CMP-00694,2026-05-16,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Low,Resolved,2.9,Neutral,Email
+CMP-00695,2026-08-13,Technical,The mobile application shows an error. The issue was resolved quickly and I appreciate the support,Medium,Resolved,6.5,Positive,Mobile App
+CMP-00696,2026-07-20,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Medium,Open,,Negative,Mobile App
+CMP-00697,2026-08-25,Delivery,My package arrived late. This is extremely frustrating and unacceptable,High,Resolved,4.2,Negative,Email
+CMP-00698,2026-06-18,Account,I am unable to verify my account. Please check the status of this issue,Medium,Resolved,7.0,Neutral,Web
+CMP-00699,2026-11-15,Account,I cannot access my account. Please provide an update on my request,High,Resolved,3.8,Neutral,Mobile App
+CMP-00700,2026-10-22,Product,The item stopped working after two days. This is extremely frustrating and unacceptable,High,Resolved,0.8,Negative,Email
+CMP-00701,2026-03-13,Service,The support team did not respond to my request. Please provide an update on my request,Low,In Progress,,Neutral,Email
+CMP-00702,2026-05-25,Billing,The amount deducted from my account is incorrect. I am very disappointed with this service,Low,Resolved,6.5,Negative,Call
+CMP-00703,2026-07-11,Account,I want to update my account details. This is extremely frustrating and unacceptable,High,Resolved,0.6,Negative,Web
+CMP-00704,2026-10-13,Delivery,My package arrived late. This is extremely frustrating and unacceptable,High,Resolved,6.5,Negative,Email
+CMP-00705,2026-08-23,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Medium,Resolved,4.6,Negative,Mobile App
+CMP-00706,2026-08-01,Billing,I was charged twice for my subscription. Nobody is helping me and this is terrible,High,In Progress,,Negative,Call
+CMP-00707,2026-07-19,Product,The product I received is damaged. Please check the status of this issue,Medium,Resolved,5.0,Neutral,Web
+CMP-00708,2026-12-27,Service,Nobody followed up on my complaint. Thank you for solving my problem,Low,Resolved,0.2,Positive,Call
+CMP-00709,2026-07-02,Billing,Why was my card charged after cancellation?. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00710,2026-05-21,Delivery,The order was delivered to the wrong address. I would like information about my complaint,Low,In Progress,,Neutral,Email
+CMP-00711,2026-02-21,Product,I received the wrong product. I am very disappointed with this service,Low,Resolved,2.9,Negative,Mobile App
+CMP-00712,2026-03-02,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,In Progress,,Neutral,Email
+CMP-00713,2026-11-10,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Low,In Progress,,Negative,Call
+CMP-00714,2026-12-02,Service,Nobody followed up on my complaint. Please provide an update on my request,Low,Resolved,2.5,Neutral,Call
+CMP-00715,2026-09-05,Billing,The amount deducted from my account is incorrect. Please check the status of this issue,Medium,Open,,Neutral,Email
+CMP-00716,2026-10-02,Billing,I was charged twice for my subscription. I would like information about my complaint,High,Resolved,3.4,Neutral,Email
+CMP-00717,2026-02-15,Account,My account has been locked. Nobody is helping me and this is terrible,Low,Open,,Negative,Email
+CMP-00718,2026-04-03,Service,The support team did not respond to my request. Please provide an update on my request,Low,Resolved,5.6,Neutral,Email
+CMP-00719,2026-10-18,Technical,The website is not loading. Please check the status of this issue,Medium,Resolved,6.8,Neutral,Email
+CMP-00720,2026-03-25,Delivery,The delivery is delayed again. Please check the status of this issue,Low,Resolved,1.0,Neutral,Call
+CMP-00721,2026-01-05,Product,The item stopped working after two days. I would like information about my complaint,Low,Open,,Neutral,Web
+CMP-00722,2026-02-01,Account,I am unable to verify my account. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Web
+CMP-00723,2026-08-23,Product,The product I received is damaged. Please check the status of this issue,Medium,Resolved,5.7,Neutral,Email
+CMP-00724,2026-10-23,Product,The product quality is not as expected. Please check the status of this issue,Medium,Resolved,6.6,Neutral,Web
+CMP-00725,2026-06-14,Service,The service was very slow. Please check the status of this issue,Low,Resolved,5.5,Neutral,Web
+CMP-00726,2026-09-17,Service,The service was very slow. Nobody is helping me and this is terrible,Low,Resolved,6.1,Negative,Email
+CMP-00727,2026-08-16,Technical,I cannot reset my password. This is extremely frustrating and unacceptable,High,Resolved,1.2,Negative,Email
+CMP-00728,2026-10-26,Product,The product I received is damaged. I am very disappointed with this service,Medium,Resolved,1.9,Negative,Call
+CMP-00729,2026-08-17,Billing,I was charged twice for my subscription. Please check the status of this issue,High,Resolved,5.5,Neutral,Web
+CMP-00730,2026-06-08,Billing,The amount deducted from my account is incorrect. Please check the status of this issue,Medium,Resolved,5.3,Neutral,Web
+CMP-00731,2026-07-08,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Web
+CMP-00732,2026-03-13,Technical,I am unable to complete the online payment. Thank you for solving my problem,Low,Resolved,4.3,Positive,Mobile App
+CMP-00733,2026-04-11,Product,The product is different from the description. Please check the status of this issue,Medium,Open,,Neutral,Email
+CMP-00734,2026-07-06,Billing,Why was my card charged after cancellation?. This is extremely frustrating and unacceptable,High,Resolved,3.4,Negative,Mobile App
+CMP-00735,2026-04-03,Product,The item stopped working after two days. Please check the status of this issue,Low,Resolved,4.0,Neutral,Call
+CMP-00736,2026-05-01,Service,Nobody followed up on my complaint. Please provide an update on my request,Medium,In Progress,,Neutral,Call
+CMP-00737,2026-10-05,Account,My account has been locked. I am very disappointed with this service,Low,Open,,Negative,Web
+CMP-00738,2026-09-02,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,In Progress,,Negative,Call
+CMP-00739,2026-09-25,Service,Nobody followed up on my complaint. The service team handled my request well,Low,Resolved,1.8,Positive,Web
+CMP-00740,2026-02-01,Account,My profile information is incorrect. Please provide an update on my request,Medium,Resolved,4.6,Neutral,Call
+CMP-00741,2026-08-25,Account,I want to update my account details. I am very disappointed with this service,Low,Open,,Negative,Email
+CMP-00742,2026-01-28,Account,My profile information is incorrect. I am very disappointed with this service,Medium,In Progress,,Negative,Web
+CMP-00743,2026-12-20,Technical,The website is not loading. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00744,2026-01-17,Account,I cannot access my account. I would like information about my complaint,High,In Progress,,Neutral,Mobile App
+CMP-00745,2026-03-21,Billing,I was charged twice for my subscription. Thank you for solving my problem,High,Resolved,2.7,Positive,Web
+CMP-00746,2026-12-25,Service,The service was very slow. I am very disappointed with this service,Low,Resolved,4.6,Negative,Email
+CMP-00747,2026-06-15,Account,My account has been locked. I am very disappointed with this service,Medium,Resolved,0.6,Negative,Call
+CMP-00748,2026-11-23,Service,The representative was not helpful. I would like information about my complaint,Medium,Resolved,2.7,Neutral,Web
+CMP-00749,2026-02-06,Product,The product is different from the description. I am very disappointed with this service,Low,Resolved,6.7,Negative,Mobile App
+CMP-00750,2026-09-05,Billing,The amount deducted from my account is incorrect. The issue was resolved quickly and I appreciate the support,Low,Resolved,6.8,Positive,Call
+CMP-00751,2026-04-27,Delivery,The tracking information has not updated. The service team handled my request well,Low,Resolved,0.6,Positive,Mobile App
+CMP-00752,2026-09-27,Technical,I am unable to complete the online payment. Nobody is helping me and this is terrible,Medium,Resolved,4.7,Negative,Call
+CMP-00753,2026-04-16,Technical,The website is not loading. I would like information about my complaint,Low,In Progress,,Neutral,Mobile App
+CMP-00754,2026-10-06,Delivery,My order has not been delivered yet. I am very disappointed with this service,Medium,Open,,Negative,Mobile App
+CMP-00755,2026-06-19,Product,The product quality is not as expected. Please check the status of this issue,Low,Resolved,1.0,Neutral,Email
+CMP-00756,2026-03-12,Technical,The website is not loading. The issue was resolved quickly and I appreciate the support,Low,Resolved,6.9,Positive,Call
+CMP-00757,2026-03-15,Service,The service was very slow. Please provide an update on my request,Low,Resolved,3.6,Neutral,Mobile App
+CMP-00758,2026-05-25,Product,The product I received is damaged. Please check the status of this issue,Medium,Resolved,2.2,Neutral,Email
+CMP-00759,2026-01-05,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00760,2026-10-21,Delivery,My order has not been delivered yet. The issue was resolved quickly and I appreciate the support,Medium,Resolved,2.4,Positive,Email
+CMP-00761,2026-08-22,Service,The representative was not helpful. I am very disappointed with this service,Low,Resolved,3.9,Negative,Web
+CMP-00762,2026-06-13,Service,Nobody followed up on my complaint. I am very disappointed with this service,Low,Open,,Negative,Email
+CMP-00763,2026-08-28,Account,My profile information is incorrect. Thank you for solving my problem,Low,Resolved,2.6,Positive,Web
+CMP-00764,2026-07-24,Product,The product is different from the description. I would like information about my complaint,Medium,Resolved,5.7,Neutral,Call
+CMP-00765,2026-09-11,Product,I received the wrong product. Please provide an update on my request,Low,Resolved,6.9,Neutral,Web
+CMP-00766,2026-12-19,Service,Nobody followed up on my complaint. I am very disappointed with this service,Medium,Resolved,4.0,Negative,Email
+CMP-00767,2026-10-10,Product,The product quality is not as expected. I would like information about my complaint,Medium,Resolved,5.8,Neutral,Call
+CMP-00768,2026-11-27,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,2.2,Negative,Call
+CMP-00769,2026-08-03,Billing,My invoice contains an unexpected charge. Thank you for solving my problem,Low,Resolved,5.4,Positive,Mobile App
+CMP-00770,2026-02-12,Service,Nobody followed up on my complaint. I would like information about my complaint,Medium,Open,,Neutral,Web
+CMP-00771,2026-06-06,Delivery,The delivery is delayed again. Please provide an update on my request,Medium,Resolved,4.9,Neutral,Web
+CMP-00772,2026-02-17,Delivery,My package arrived late. Thank you for solving my problem,Low,Resolved,3.8,Positive,Email
+CMP-00773,2026-11-26,Account,My account has been locked. Please check the status of this issue,Low,Resolved,6.1,Neutral,Mobile App
+CMP-00774,2026-01-05,Delivery,My package arrived late. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Mobile App
+CMP-00775,2026-04-26,Delivery,The tracking information has not updated. The issue was resolved quickly and I appreciate the support,Low,Resolved,3.6,Positive,Web
+CMP-00776,2026-08-12,Technical,The mobile application shows an error. Please provide an update on my request,Low,Open,,Neutral,Mobile App
+CMP-00777,2026-12-27,Account,I want to update my account details. I am very disappointed with this service,Medium,Resolved,2.3,Negative,Web
+CMP-00778,2026-02-14,Product,The product quality is not as expected. Please provide an update on my request,Low,Resolved,1.6,Neutral,Web
+CMP-00779,2026-11-17,Billing,I was charged twice for my subscription. I would like information about my complaint,High,Resolved,0.9,Neutral,Web
+CMP-00780,2026-02-26,Technical,The application keeps crashing when I log in. Please provide an update on my request,High,Resolved,4.7,Neutral,Web
+CMP-00781,2026-03-28,Service,The service was very slow. Please provide an update on my request,Low,Resolved,0.4,Neutral,Mobile App
+CMP-00782,2026-10-25,Service,I am unhappy with the customer service. The service team handled my request well,Low,Resolved,0.7,Positive,Web
+CMP-00783,2026-09-01,Service,The service was very slow. I would like information about my complaint,Low,Open,,Neutral,Web
+CMP-00784,2026-03-15,Product,I received the wrong product. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00785,2026-06-04,Product,The item stopped working after two days. I would like information about my complaint,Low,Resolved,3.0,Neutral,Call
+CMP-00786,2026-06-16,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Medium,Resolved,0.5,Negative,Web
+CMP-00787,2026-08-08,Technical,The website is not loading. The service team handled my request well,Medium,In Progress,,Positive,Call
+CMP-00788,2026-08-22,Delivery,The tracking information has not updated. This is extremely frustrating and unacceptable,High,Open,,Negative,Mobile App
+CMP-00789,2026-11-03,Product,The product I received is damaged. I would like information about my complaint,Low,Resolved,3.8,Neutral,Web
+CMP-00790,2026-03-03,Product,The product is different from the description. The service team handled my request well,Low,In Progress,,Positive,Mobile App
+CMP-00791,2026-08-09,Product,The item stopped working after two days. I am very disappointed with this service,Low,Resolved,3.1,Negative,Mobile App
+CMP-00792,2026-09-09,Account,My profile information is incorrect. The service team handled my request well,Medium,Open,,Positive,Email
+CMP-00793,2026-03-01,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,Resolved,4.5,Negative,Web
+CMP-00794,2026-07-20,Account,I cannot access my account. I would like information about my complaint,High,Resolved,6.8,Neutral,Mobile App
+CMP-00795,2026-08-26,Product,The item stopped working after two days. Please provide an update on my request,Low,Resolved,3.7,Neutral,Call
+CMP-00796,2026-09-18,Product,The item stopped working after two days. I would like information about my complaint,Medium,Resolved,5.7,Neutral,Web
+CMP-00797,2026-08-15,Billing,I have not received my billing statement. Please provide an update on my request,Medium,Resolved,6.0,Neutral,Web
+CMP-00798,2026-12-13,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,Resolved,1.1,Neutral,Call
+CMP-00799,2026-09-02,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Medium,Resolved,6.0,Neutral,Call
+CMP-00800,2026-05-11,Delivery,The tracking information has not updated. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00801,2026-10-01,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00802,2026-04-08,Technical,The application keeps crashing when I log in. Thank you for solving my problem,High,Resolved,0.6,Positive,Email
+CMP-00803,2026-02-11,Account,I want to update my account details. Please check the status of this issue,Low,In Progress,,Neutral,Email
+CMP-00804,2026-05-01,Billing,Why was my card charged after cancellation?. I am very disappointed with this service,Medium,Resolved,6.3,Negative,Call
+CMP-00805,2026-08-04,Service,The support team did not respond to my request. I would like information about my complaint,Medium,Resolved,0.9,Neutral,Email
+CMP-00806,2026-07-07,Delivery,The tracking information has not updated. Please check the status of this issue,Medium,Resolved,2.2,Neutral,Call
+CMP-00807,2026-05-19,Account,I cannot access my account. Please check the status of this issue,High,Resolved,2.0,Neutral,Call
+CMP-00808,2026-10-26,Product,I received the wrong product. Please provide an update on my request,Low,Resolved,2.1,Neutral,Call
+CMP-00809,2026-05-14,Technical,I cannot reset my password. This is extremely frustrating and unacceptable,High,Resolved,2.3,Negative,Mobile App
+CMP-00810,2026-01-21,Product,The product is different from the description. The service team handled my request well,Medium,Resolved,3.9,Positive,Email
+CMP-00811,2026-10-28,Service,Nobody followed up on my complaint. Nobody is helping me and this is terrible,Medium,Resolved,4.5,Negative,Call
+CMP-00812,2026-11-25,Service,The support team did not respond to my request. I would like information about my complaint,Medium,Resolved,1.2,Neutral,Mobile App
+CMP-00813,2026-05-27,Technical,The mobile application shows an error. This is extremely frustrating and unacceptable,High,Resolved,6.0,Negative,Mobile App
+CMP-00814,2026-04-01,Account,My account has been locked. Nobody is helping me and this is terrible,Low,Resolved,1.0,Negative,Email
+CMP-00815,2026-03-09,Delivery,The tracking information has not updated. Thank you for solving my problem,Medium,Resolved,0.5,Positive,Email
+CMP-00816,2026-12-16,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Low,Resolved,0.5,Neutral,Web
+CMP-00817,2026-07-12,Billing,I was charged twice for my subscription. I am very disappointed with this service,High,In Progress,,Negative,Web
+CMP-00818,2026-09-09,Technical,I cannot reset my password. Nobody is helping me and this is terrible,Low,Resolved,5.8,Negative,Call
+CMP-00819,2026-12-13,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00820,2026-07-09,Technical,I cannot reset my password. This is extremely frustrating and unacceptable,High,Resolved,2.1,Negative,Web
+CMP-00821,2026-04-09,Technical,I am unable to complete the online payment. The issue was resolved quickly and I appreciate the support,Medium,Resolved,3.4,Positive,Email
+CMP-00822,2026-01-27,Delivery,The tracking information has not updated. I would like information about my complaint,Low,Resolved,6.4,Neutral,Web
+CMP-00823,2026-11-04,Account,My account has been locked. I am very disappointed with this service,Medium,Resolved,5.0,Negative,Email
+CMP-00824,2026-04-10,Technical,The mobile application shows an error. I am very disappointed with this service,Medium,Resolved,6.6,Negative,Email
+CMP-00825,2026-05-28,Product,The product is different from the description. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00826,2026-02-27,Technical,The mobile application shows an error. I would like information about my complaint,Medium,In Progress,,Neutral,Email
+CMP-00827,2026-12-11,Account,I want to update my account details. I would like information about my complaint,Medium,Resolved,5.7,Neutral,Call
+CMP-00828,2026-11-05,Account,I cannot access my account. Please check the status of this issue,High,Resolved,4.5,Neutral,Web
+CMP-00829,2026-12-25,Technical,I cannot reset my password. I would like information about my complaint,Low,Resolved,1.9,Neutral,Email
+CMP-00830,2026-05-06,Service,Nobody followed up on my complaint. I would like information about my complaint,Medium,Resolved,5.2,Neutral,Mobile App
+CMP-00831,2026-10-08,Delivery,The delivery is delayed again. I am very disappointed with this service,Low,Resolved,2.8,Negative,Web
+CMP-00832,2026-08-07,Billing,Why was my card charged after cancellation?. Please check the status of this issue,Low,Open,,Neutral,Mobile App
+CMP-00833,2026-06-06,Account,My account has been locked. Nobody is helping me and this is terrible,Medium,Resolved,1.2,Negative,Web
+CMP-00834,2026-04-28,Billing,Why was my card charged after cancellation?. Thank you for solving my problem,Medium,Resolved,5.1,Positive,Mobile App
+CMP-00835,2026-05-24,Delivery,The tracking information has not updated. Thank you for solving my problem,Low,Resolved,7.0,Positive,Email
+CMP-00836,2026-10-15,Technical,I cannot reset my password. The issue was resolved quickly and I appreciate the support,Low,Resolved,2.0,Positive,Email
+CMP-00837,2026-06-23,Delivery,The order was delivered to the wrong address. I would like information about my complaint,Low,Resolved,1.1,Neutral,Call
+CMP-00838,2026-05-03,Account,My account has been locked. Please check the status of this issue,Medium,In Progress,,Neutral,Web
+CMP-00839,2026-10-22,Service,The support team did not respond to my request. This is extremely frustrating and unacceptable,High,Resolved,2.6,Negative,Web
+CMP-00840,2026-11-12,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Medium,Open,,Neutral,Email
+CMP-00841,2026-08-05,Service,The support team did not respond to my request. I would like information about my complaint,Low,Resolved,6.5,Neutral,Web
+CMP-00842,2026-08-28,Delivery,The order was delivered to the wrong address. Thank you for solving my problem,Low,Resolved,6.9,Positive,Mobile App
+CMP-00843,2026-05-17,Account,I want to update my account details. I would like information about my complaint,Medium,Resolved,5.4,Neutral,Mobile App
+CMP-00844,2026-11-26,Technical,I cannot reset my password. I am very disappointed with this service,Low,Resolved,6.5,Negative,Call
+CMP-00845,2026-03-23,Billing,The amount deducted from my account is incorrect. This is extremely frustrating and unacceptable,High,Resolved,3.4,Negative,Call
+CMP-00846,2026-12-18,Technical,The application keeps crashing when I log in. I would like information about my complaint,High,Resolved,2.6,Neutral,Call
+CMP-00847,2026-05-06,Technical,The mobile application shows an error. Nobody is helping me and this is terrible,Low,Resolved,0.8,Negative,Email
+CMP-00848,2026-09-25,Account,I am unable to verify my account. Please check the status of this issue,Low,Resolved,6.8,Neutral,Email
+CMP-00849,2026-01-10,Technical,The application keeps crashing when I log in. I am very disappointed with this service,High,Resolved,6.2,Negative,Web
+CMP-00850,2026-12-22,Technical,The website is not loading. Please provide an update on my request,Medium,Resolved,0.8,Neutral,Call
+CMP-00851,2026-11-20,Technical,The website is not loading. Please provide an update on my request,Medium,Open,,Neutral,Call
+CMP-00852,2026-05-11,Delivery,The order was delivered to the wrong address. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00853,2026-03-08,Account,I cannot access my account. Please check the status of this issue,High,Resolved,2.9,Neutral,Call
+CMP-00854,2026-11-25,Billing,I was charged twice for my subscription. Please provide an update on my request,High,Resolved,2.9,Neutral,Email
+CMP-00855,2026-10-05,Billing,My invoice contains an unexpected charge. Thank you for solving my problem,Medium,Open,,Positive,Mobile App
+CMP-00856,2026-07-16,Account,I cannot access my account. Please check the status of this issue,High,Resolved,3.2,Neutral,Mobile App
+CMP-00857,2026-07-03,Service,The representative was not helpful. Thank you for solving my problem,Medium,Resolved,3.2,Positive,Web
+CMP-00858,2026-08-17,Service,I am unhappy with the customer service. Please check the status of this issue,Low,Resolved,5.1,Neutral,Web
+CMP-00859,2026-05-27,Delivery,The tracking information has not updated. Thank you for solving my problem,Medium,Resolved,1.1,Positive,Email
+CMP-00860,2026-09-04,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Resolved,6.4,Negative,Call
+CMP-00861,2026-05-19,Technical,The application keeps crashing when I log in. The service team handled my request well,High,Resolved,1.9,Positive,Web
+CMP-00862,2026-07-02,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Medium,Resolved,1.4,Negative,Web
+CMP-00863,2026-08-20,Technical,The website is not loading. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Mobile App
+CMP-00864,2026-10-09,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00865,2026-08-23,Technical,I am unable to complete the online payment. I am very disappointed with this service,Low,Resolved,4.7,Negative,Call
+CMP-00866,2026-12-22,Account,I am unable to verify my account. I would like information about my complaint,Medium,In Progress,,Neutral,Call
+CMP-00867,2026-12-07,Delivery,My order has not been delivered yet. This is extremely frustrating and unacceptable,High,Resolved,5.7,Negative,Web
+CMP-00868,2026-09-07,Product,The product is different from the description. Please check the status of this issue,Low,Resolved,4.5,Neutral,Web
+CMP-00869,2026-12-23,Delivery,The tracking information has not updated. I am very disappointed with this service,Low,Resolved,6.3,Negative,Call
+CMP-00870,2026-07-02,Technical,The mobile application shows an error. I am very disappointed with this service,Low,Resolved,4.1,Negative,Mobile App
+CMP-00871,2026-08-24,Billing,I was charged twice for my subscription. Please check the status of this issue,High,Resolved,3.0,Neutral,Mobile App
+CMP-00872,2026-01-14,Billing,I have not received my billing statement. The service team handled my request well,Medium,Resolved,0.6,Positive,Mobile App
+CMP-00873,2026-02-16,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Medium,Open,,Negative,Mobile App
+CMP-00874,2026-09-08,Technical,The mobile application shows an error. I am very disappointed with this service,Low,Resolved,3.2,Negative,Mobile App
+CMP-00875,2026-11-21,Service,Nobody followed up on my complaint. I am very disappointed with this service,Medium,Open,,Negative,Mobile App
+CMP-00876,2026-04-06,Technical,I cannot reset my password. I would like information about my complaint,Low,Resolved,1.1,Neutral,Call
+CMP-00877,2026-01-12,Billing,I have not received my billing statement. I would like information about my complaint,Medium,Resolved,4.0,Neutral,Mobile App
+CMP-00878,2026-06-14,Delivery,The delivery is delayed again. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Web
+CMP-00879,2026-06-25,Service,The service was very slow. This is extremely frustrating and unacceptable,High,Resolved,7.0,Negative,Web
+CMP-00880,2026-08-26,Service,I am unhappy with the customer service. Please check the status of this issue,Low,In Progress,,Neutral,Call
+CMP-00881,2026-02-27,Billing,I was charged twice for my subscription. Please check the status of this issue,High,In Progress,,Neutral,Web
+CMP-00882,2026-06-06,Service,The support team did not respond to my request. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Mobile App
+CMP-00883,2026-03-04,Account,My profile information is incorrect. I would like information about my complaint,Low,Resolved,2.7,Neutral,Email
+CMP-00884,2026-08-11,Technical,The mobile application shows an error. Please provide an update on my request,Low,In Progress,,Neutral,Mobile App
+CMP-00885,2026-03-25,Service,The service was very slow. I am very disappointed with this service,Medium,Resolved,4.7,Negative,Call
+CMP-00886,2026-09-26,Product,The product quality is not as expected. I would like information about my complaint,Medium,Open,,Neutral,Mobile App
+CMP-00887,2026-09-03,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Web
+CMP-00888,2026-11-21,Delivery,My package arrived late. The issue was resolved quickly and I appreciate the support,Medium,Resolved,5.4,Positive,Email
+CMP-00889,2026-12-18,Service,The support team did not respond to my request. Please check the status of this issue,Medium,Resolved,6.2,Neutral,Mobile App
+CMP-00890,2026-10-05,Account,I want to update my account details. Please provide an update on my request,Medium,Open,,Neutral,Call
+CMP-00891,2026-11-13,Technical,I cannot reset my password. Please check the status of this issue,Medium,In Progress,,Neutral,Email
+CMP-00892,2026-12-05,Delivery,My order has not been delivered yet. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00893,2026-03-01,Product,The product I received is damaged. I would like information about my complaint,Medium,In Progress,,Neutral,Web
+CMP-00894,2026-02-24,Service,The representative was not helpful. I am very disappointed with this service,Medium,Open,,Negative,Web
+CMP-00895,2026-02-15,Delivery,My package arrived late. I would like information about my complaint,Low,Resolved,4.6,Neutral,Mobile App
+CMP-00896,2026-12-19,Service,The support team did not respond to my request. The issue was resolved quickly and I appreciate the support,Low,Resolved,2.1,Positive,Email
+CMP-00897,2026-06-15,Account,My profile information is incorrect. Please provide an update on my request,Low,Resolved,4.2,Neutral,Web
+CMP-00898,2026-08-07,Product,The product is different from the description. Please provide an update on my request,Low,Resolved,6.2,Neutral,Call
+CMP-00899,2026-10-16,Billing,My invoice contains an unexpected charge. I would like information about my complaint,Medium,In Progress,,Neutral,Call
+CMP-00900,2026-12-15,Technical,The mobile application shows an error. I would like information about my complaint,Low,Resolved,1.1,Neutral,Email
+CMP-00901,2026-03-18,Account,I am unable to verify my account. Please provide an update on my request,Low,Resolved,0.4,Neutral,Mobile App
+CMP-00902,2026-09-05,Billing,Why was my card charged after cancellation?. Please provide an update on my request,Low,Resolved,2.2,Neutral,Web
+CMP-00903,2026-03-26,Delivery,My package arrived late. I would like information about my complaint,Medium,Resolved,5.6,Neutral,Call
+CMP-00904,2026-08-01,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Low,In Progress,,Neutral,Web
+CMP-00905,2026-10-15,Service,I am unhappy with the customer service. This is extremely frustrating and unacceptable,High,Resolved,4.1,Negative,Mobile App
+CMP-00906,2026-09-21,Technical,The mobile application shows an error. Please check the status of this issue,Low,In Progress,,Neutral,Call
+CMP-00907,2026-10-14,Technical,The mobile application shows an error. Nobody is helping me and this is terrible,Medium,Resolved,4.4,Negative,Call
+CMP-00908,2026-08-24,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Open,,Negative,Mobile App
+CMP-00909,2026-12-10,Account,I cannot access my account. Please check the status of this issue,High,Resolved,4.5,Neutral,Web
+CMP-00910,2026-09-07,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Low,Open,,Negative,Call
+CMP-00911,2026-05-26,Service,The support team did not respond to my request. Nobody is helping me and this is terrible,Low,Open,,Negative,Email
+CMP-00912,2026-01-11,Product,I received the wrong product. The service team handled my request well,Medium,Resolved,0.5,Positive,Call
+CMP-00913,2026-02-18,Product,The product is different from the description. Nobody is helping me and this is terrible,Medium,Resolved,0.8,Negative,Email
+CMP-00914,2026-11-06,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Resolved,6.7,Negative,Web
+CMP-00915,2026-03-14,Service,I am unhappy with the customer service. Nobody is helping me and this is terrible,Low,Resolved,0.9,Negative,Mobile App
+CMP-00916,2026-10-08,Delivery,The tracking information has not updated. Please provide an update on my request,Low,Resolved,5.3,Neutral,Call
+CMP-00917,2026-07-03,Service,The representative was not helpful. The issue was resolved quickly and I appreciate the support,Medium,Resolved,3.4,Positive,Call
+CMP-00918,2026-02-08,Billing,I have not received my billing statement. Please provide an update on my request,Medium,Resolved,4.2,Neutral,Email
+CMP-00919,2026-03-12,Delivery,The order was delivered to the wrong address. The issue was resolved quickly and I appreciate the support,Low,In Progress,,Positive,Email
+CMP-00920,2026-10-10,Product,I received the wrong product. Please check the status of this issue,Medium,Resolved,5.7,Neutral,Email
+CMP-00921,2026-11-13,Billing,I was charged twice for my subscription. I would like information about my complaint,High,Resolved,1.9,Neutral,Mobile App
+CMP-00922,2026-10-03,Account,My account has been locked. Please check the status of this issue,Medium,Resolved,5.2,Neutral,Mobile App
+CMP-00923,2026-04-20,Billing,I have not received my billing statement. Please provide an update on my request,Medium,In Progress,,Neutral,Mobile App
+CMP-00924,2026-06-11,Account,I want to update my account details. Please check the status of this issue,Medium,Resolved,4.7,Neutral,Email
+CMP-00925,2026-08-01,Technical,I am unable to complete the online payment. Nobody is helping me and this is terrible,Low,Resolved,0.2,Negative,Web
+CMP-00926,2026-09-03,Account,My account has been locked. The service team handled my request well,Medium,In Progress,,Positive,Web
+CMP-00927,2026-07-27,Service,The support team did not respond to my request. Please check the status of this issue,Medium,Resolved,2.6,Neutral,Mobile App
+CMP-00928,2026-04-15,Technical,I cannot reset my password. Please check the status of this issue,Low,Resolved,2.7,Neutral,Web
+CMP-00929,2026-11-10,Product,The product I received is damaged. Please check the status of this issue,Medium,Resolved,5.8,Neutral,Email
+CMP-00930,2026-10-07,Product,The product is different from the description. Please provide an update on my request,Medium,Resolved,5.0,Neutral,Web
+CMP-00931,2026-12-19,Product,The product is different from the description. I am very disappointed with this service,Medium,Resolved,1.5,Negative,Email
+CMP-00932,2026-04-17,Billing,Why was my card charged after cancellation?. This is extremely frustrating and unacceptable,High,Resolved,6.5,Negative,Mobile App
+CMP-00933,2026-08-01,Product,The product I received is damaged. Please check the status of this issue,Medium,In Progress,,Neutral,Call
+CMP-00934,2026-05-04,Account,I cannot access my account. I would like information about my complaint,High,Resolved,7.0,Neutral,Call
+CMP-00935,2026-09-15,Technical,The website is not loading. Please provide an update on my request,Low,Resolved,6.4,Neutral,Mobile App
+CMP-00936,2026-01-24,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,Open,,Negative,Email
+CMP-00937,2026-11-21,Account,My profile information is incorrect. Please provide an update on my request,Low,Resolved,2.3,Neutral,Web
+CMP-00938,2026-04-04,Billing,I have not received my billing statement. The issue was resolved quickly and I appreciate the support,Medium,In Progress,,Positive,Call
+CMP-00939,2026-10-20,Product,The item stopped working after two days. I would like information about my complaint,Low,Open,,Neutral,Call
+CMP-00940,2026-07-11,Billing,I have not received my billing statement. Please provide an update on my request,Low,Open,,Neutral,Web
+CMP-00941,2026-02-04,Product,The product I received is damaged. I would like information about my complaint,Low,Resolved,4.5,Neutral,Web
+CMP-00942,2026-04-28,Service,The support team did not respond to my request. I am very disappointed with this service,Medium,Resolved,5.3,Negative,Web
+CMP-00943,2026-01-15,Technical,The mobile application shows an error. Thank you for solving my problem,Low,Resolved,6.6,Positive,Mobile App
+CMP-00944,2026-04-19,Service,The service was very slow. This is extremely frustrating and unacceptable,High,Resolved,0.7,Negative,Email
+CMP-00945,2026-08-06,Account,I am unable to verify my account. I am very disappointed with this service,Medium,In Progress,,Negative,Email
+CMP-00946,2026-06-10,Product,The product I received is damaged. I am very disappointed with this service,Medium,Resolved,4.6,Negative,Email
+CMP-00947,2026-10-22,Product,The product is different from the description. I am very disappointed with this service,Medium,Resolved,0.3,Negative,Email
+CMP-00948,2026-04-21,Billing,The amount deducted from my account is incorrect. Please check the status of this issue,Low,Resolved,1.5,Neutral,Email
+CMP-00949,2026-10-19,Billing,My invoice contains an unexpected charge. I am very disappointed with this service,Medium,Resolved,2.5,Negative,Mobile App
+CMP-00950,2026-01-16,Service,I am unhappy with the customer service. The issue was resolved quickly and I appreciate the support,Low,Resolved,5.6,Positive,Email
+CMP-00951,2026-06-26,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,Resolved,5.2,Neutral,Call
+CMP-00952,2026-01-18,Product,The product is different from the description. This is extremely frustrating and unacceptable,High,Resolved,0.7,Negative,Web
+CMP-00953,2026-04-10,Product,The item stopped working after two days. The service team handled my request well,Medium,Resolved,0.4,Positive,Email
+CMP-00954,2026-05-04,Product,The item stopped working after two days. I would like information about my complaint,Low,Resolved,0.3,Neutral,Web
+CMP-00955,2026-05-15,Account,My account has been locked. The issue was resolved quickly and I appreciate the support,Medium,Open,,Positive,Email
+CMP-00956,2026-02-04,Delivery,My package arrived late. Please check the status of this issue,Medium,In Progress,,Neutral,Email
+CMP-00957,2026-11-08,Product,The product quality is not as expected. I am very disappointed with this service,Medium,Resolved,3.1,Negative,Web
+CMP-00958,2026-06-08,Service,The representative was not helpful. Nobody is helping me and this is terrible,Medium,In Progress,,Negative,Web
+CMP-00959,2026-08-26,Account,I want to update my account details. Please check the status of this issue,Medium,Resolved,0.8,Neutral,Web
+CMP-00960,2026-06-23,Product,I received the wrong product. The service team handled my request well,Medium,Resolved,3.4,Positive,Mobile App
+CMP-00961,2026-10-21,Service,Nobody followed up on my complaint. I would like information about my complaint,Medium,Resolved,2.9,Neutral,Web
+CMP-00962,2026-07-19,Product,The product quality is not as expected. I would like information about my complaint,Low,Resolved,2.3,Neutral,Email
+CMP-00963,2026-04-19,Delivery,My package arrived late. Please provide an update on my request,Low,Resolved,3.7,Neutral,Web
+CMP-00964,2026-08-11,Technical,I am unable to complete the online payment. I would like information about my complaint,Medium,Resolved,3.0,Neutral,Mobile App
+CMP-00965,2026-02-10,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Resolved,0.7,Negative,Web
+CMP-00966,2026-06-07,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Resolved,3.9,Negative,Mobile App
+CMP-00967,2026-03-28,Delivery,My package arrived late. Please check the status of this issue,Medium,Resolved,4.3,Neutral,Mobile App
+CMP-00968,2026-10-25,Billing,My invoice contains an unexpected charge. I am very disappointed with this service,Medium,Open,,Negative,Web
+CMP-00969,2026-04-16,Technical,I am unable to complete the online payment. Please provide an update on my request,Medium,Resolved,5.1,Neutral,Email
+CMP-00970,2026-04-14,Service,The representative was not helpful. I would like information about my complaint,Medium,Resolved,0.8,Neutral,Call
+CMP-00971,2026-03-10,Product,The product is different from the description. The service team handled my request well,Low,Resolved,4.1,Positive,Web
+CMP-00972,2026-07-25,Technical,The website is not loading. I am very disappointed with this service,Medium,In Progress,,Negative,Mobile App
+CMP-00973,2026-03-11,Delivery,The order was delivered to the wrong address. This is extremely frustrating and unacceptable,High,Open,,Negative,Call
+CMP-00974,2026-10-15,Technical,I cannot reset my password. Please provide an update on my request,Medium,Resolved,0.9,Neutral,Mobile App
+CMP-00975,2026-08-01,Billing,The amount deducted from my account is incorrect. Nobody is helping me and this is terrible,Low,Resolved,4.9,Negative,Email
+CMP-00976,2026-09-03,Product,The product I received is damaged. I would like information about my complaint,Medium,Resolved,2.2,Neutral,Call
+CMP-00977,2026-07-13,Billing,My invoice contains an unexpected charge. Please provide an update on my request,Medium,In Progress,,Neutral,Email
+CMP-00978,2026-04-05,Billing,The amount deducted from my account is incorrect. I would like information about my complaint,Low,Resolved,6.3,Neutral,Email
+CMP-00979,2026-05-19,Delivery,The tracking information has not updated. Please check the status of this issue,Medium,Resolved,4.1,Neutral,Email
+CMP-00980,2026-08-03,Service,Nobody followed up on my complaint. This is extremely frustrating and unacceptable,High,Open,,Negative,Call
+CMP-00981,2026-12-03,Service,The service was very slow. Please check the status of this issue,Medium,Resolved,4.1,Neutral,Mobile App
+CMP-00982,2026-03-14,Account,My profile information is incorrect. Nobody is helping me and this is terrible,Medium,Resolved,5.8,Negative,Email
+CMP-00983,2026-03-23,Product,I received the wrong product. I would like information about my complaint,Medium,Open,,Neutral,Web
+CMP-00984,2026-05-22,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Resolved,4.5,Negative,Web
+CMP-00985,2026-02-25,Account,My account has been locked. I would like information about my complaint,Low,Open,,Neutral,Web
+CMP-00986,2026-01-03,Service,I am unhappy with the customer service. The issue was resolved quickly and I appreciate the support,Medium,Resolved,0.5,Positive,Call
+CMP-00987,2026-12-05,Technical,The website is not loading. Please provide an update on my request,Medium,Resolved,1.9,Neutral,Mobile App
+CMP-00988,2026-08-05,Account,My profile information is incorrect. The issue was resolved quickly and I appreciate the support,Low,Resolved,1.8,Positive,Call
+CMP-00989,2026-02-18,Delivery,The delivery is delayed again. This is extremely frustrating and unacceptable,High,Resolved,1.4,Negative,Call
+CMP-00990,2026-04-23,Product,The product I received is damaged. Please provide an update on my request,Medium,Resolved,2.6,Neutral,Web
+CMP-00991,2026-09-21,Account,I am unable to verify my account. Nobody is helping me and this is terrible,Low,In Progress,,Negative,Web
+CMP-00992,2026-04-08,Technical,The website is not loading. The service team handled my request well,Low,Resolved,2.8,Positive,Mobile App
+CMP-00993,2026-06-27,Product,The product quality is not as expected. I am very disappointed with this service,Low,Open,,Negative,Email
+CMP-00994,2026-11-06,Account,I cannot access my account. This is extremely frustrating and unacceptable,High,In Progress,,Negative,Email
+CMP-00995,2026-04-18,Billing,I have not received my billing statement. I would like information about my complaint,Medium,Resolved,1.5,Neutral,Call
+CMP-00996,2026-07-21,Technical,The application keeps crashing when I log in. This is extremely frustrating and unacceptable,High,Resolved,1.4,Negative,Mobile App
+CMP-00997,2026-11-20,Billing,I have not received my billing statement. This is extremely frustrating and unacceptable,High,Resolved,5.7,Negative,Mobile App
+CMP-00998,2026-02-23,Billing,I was charged twice for my subscription. I would like information about my complaint,High,Resolved,4.3,Neutral,Email
+CMP-00999,2026-12-05,Delivery,My order has not been delivered yet. Please check the status of this issue,Medium,Resolved,6.8,Neutral,Mobile App
+CMP-01000,2026-10-15,Product,The item stopped working after two days. Please check the status of this issue,Medium,Resolved,0.3,Neutral,Call
